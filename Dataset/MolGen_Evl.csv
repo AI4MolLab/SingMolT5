@@ -1,0 +1,34 @@
+﻿SMILES,Caption
+C1=CC(=CC=C1N)N,This molecule consists of a benzene ring substituted with two amino groups at symmetric positions.
+C1=CC(=CC=C1N)N,This molecule has a benzene core with amino groups acting as anchor groups at the 1st and 4th carbons of the benzene ring.
+C1=CC(=CC=C1N)N,This molecule contains a benzene core with two amino functional groups positioned opposite each other.
+C(CCCS)CCS,This molecule contains a linear carbon chain made up of six carbon atoms with sulfhydryl groups at both terminal ends serving as anchoring moieties.
+C(CCCS)CCS,This molecule has a backbone consisting of six carbon atoms and features sulfhydryl anchoring groups attached at each end of the chain.
+C(CCCS)CCS,This molecule is composed of a straight carbon chain containing six carbon atoms and is terminated by sulfhydryl groups on both sides acting as anchoring groups.
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)C#N)C#N,"This molecule consists of a diphenylacetylene backbone, with cyano groups attached to each benzene ring, and these groups act as anchor groups."
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)C#N)C#N,"This molecule has a diphenylacetylene core structure, featuring cyano groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups."
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)C#N)C#N,"This molecule contains a diphenylacetylene framework, where cyano groups are positioned on the two benzene rings, and both groups function as anchor groups."
+C1=CC(=CC=C1C2=CC=C(C=C2)S)S,This molecule has a Biphenyl core with sulfhydryl groups as anchor groups attached to each benzene ring.
+C1=CC(=CC=C1C2=CC=C(C=C2)S)S,"This molecule has a biphenyl core structure featuring sulfhydryl moieties on each benzene ring, with both moieties serving as anchor groups to access electrodes."
+C1=CC(=CC=C1C2=CC=C(C=C2)S)S,"This molecule contains a biphenyl framework with sulfhydryl groups positioned on its two benzene rings, and both groups function as anchor groups."
+CSC1=CC=C(C=C1)C#CC2=CC(=CC=C2)C#CC3=CC=C(C=C3)SC,"This molecule contains a structure consisting of three benzene rings, each connected by a carbon-carbon triple bond between the rings. At both terminal benzene rings, methylthio groups are attached, serving as anchoring moieties."
+CSC1=CC=C(C=C1)C#CC2=CC(=CC=C2)C#CC3=CC=C(C=C3)SC,"This molecule has a conjugated system of three benzene rings, each linked by a carbon-carbon triple bond. The terminal benzene rings are substituted with methylthio groups, which act as anchoring groups."
+CSC1=CC=C(C=C1)C#CC2=CC(=CC=C2)C#CC3=CC=C(C=C3)SC,"This molecule is composed of three benzene rings connected by carbon-carbon triple bond, with methylthio groups attached at both ends of the structure."
+C1=CC2=C(C=C1C#N)C3=C(C2=O)C=CC(=C3)C#N,This molecule consists of a fluoren-9-one as the central backbone. Cyano groups are attached to the 2nd and 7th carbon atoms of the fluoren-9-one.
+C1=CC2=C(C=C1C#N)C3=C(C2=O)C=CC(=C3)C#N,This molecule has a fluorene-9-one framework. Two Cyano groups are positioned at the 2nd position and 7th position of the fluorene-9-one.
+C1=CC2=C(C=C1C#N)C3=C(C2=O)C=CC(=C3)C#N,This molecule is structured with a fluorene-9-one ring as the core skeleton. Cyano groups link to the 2nd and 7th sites of the fluorene- 9-one ring.
+CC(=O)SC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC(=O)C,"This molecule consists of two benzene rings connected by a diacetylene chain, and has S-Methyl thioacetate anchor groups attached to each benzene ring."
+CC(=O)SC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC(=O)C,"This molecule has two benzene rings linked via a diacetylene chain, and contains S-Methyl thioacetate groups on both benzene rings as anchors."
+CC(=O)SC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC(=O)C,"This molecule contains two benzene rings joined by a diacetylene bonds, with S-Methyl thioacetate on each benzene ring serving as anchor groups."
+CSC1=CC=C(C#CC2=CC=C(C#CC3=CC=C(SC)C=C3)S2)C=C1,"This molecule consists of a thiophene ring connects the two benzene rings via carbon-carbon triple bonds, and each benzene ring has a Methylthio anchor group attached."
+CSC1=CC=C(C#CC2=CC=C(C#CC3=CC=C(SC)C=C3)S2)C=C1,"This molecule consists of two benzene rings and a thiophene ring connected by carbon-carbon triple bonds, with methylthio groups on the benzene rings serving as anchor groups."
+CSC1=CC=C(C#CC2=CC=C(C#CC3=CC=C(SC)C=C3)S2)C=C1,"This molecule has a central thiophene ring linking two benzene rings through carbon-carbon triple bonds, with each benzene ring has a methylthio moiety acting as anchoring groupsk."
+CNC1=CC2=CC3=C(C=C2C=C1)C=C(C=C3)NC,"This molecule consists of an anthracene backbone with two methylamino groups, which serve as anchoring groups, attached at both ends."
+CNC1=CC2=CC3=C(C=C2C=C1)C=C(C=C3)NC,"This molecule has a backbone formed by an anthracene, with methylamino groups acting as anchoring groups."
+CNC1=CC2=CC3=C(C=C2C=C1)C=C(C=C3)NC,"This molecule contains an anthracene core, with methylamino groups serving as anchoring groups, attached at the outermost positions."
+O=C(O)C1=CC=C2C=C3C=C(C(=O)O)C=CC3=CC2=C1,"This molecule has a anthracene core with carboxyl groups attached to the 1st and 6th carbons, acting as potential functional anchor."
+O=C(O)C1=CC=C2C=C3C=C(C(=O)O)C=CC3=CC2=C1,"This molecule features a anthracene framework where carboxyl groups bond to symmetric positions of the anthracene rings, serving as anchor groups."
+O=C(O)C1=CC=C2C=C3C=C(C(=O)O)C=CC3=CC2=C1,"This molecule uses a anthracene skeleton with carboxyl groups connecting to symmetric sites, functioning as potential functional anchor points."
+C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O,"This molecule has a naphthalene core with carboxyl groups attached to symmetric positions, acting as anchor groups."
+C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O,"This molecule features a naphthalene framework where carboxyl groups bond to symmetric sites of the naphthalene rings, serving as anchor groups."
+C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O,"This molecule uses a naphthalene skeleton with carboxyl groups connecting to symmetric positions, functioning as anchor groups."
