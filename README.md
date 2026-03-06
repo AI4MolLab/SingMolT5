@@ -14,6 +14,8 @@ This repository hosts the official code and curated datasets for **SingMolT5**�
 
 ## Introduction
 The design of single-molecule junctions is the cornerstone of molecular electronics but has long relied on chemical intuition and serendipitous discovery, lacking a systematic, intelligent design framework. Unlike traditional deep learning models that are often constrained to specific tasks, Large Language Models (LLMs) map the vast, discrete chemical space into a continuous semantic representation. This capability facilitates a paradigm shift in scientific discovery, democratizing molecular design by enabling researchers to generate complex structures through intuitive natural language descriptions. However, directly applying this generative paradigm is fundamentally hindered because general LLMs lack the intrinsic capability to adhere to the strict topological rules of single-molecule junctions, particularly regarding precise anchoring group placement and backbone configuration. Here, we present a proof-of-concept study by constructing a pilot instruction-tuning dataset and systematically evaluating two adaptation strategies—In-Context Learning (ICL) and Fine-Tuning—on pre-trained molecular LLMs. Our results reveal that while ICL demonstrates basic chemical understanding, only the fine-tuning strategy successfully captures the strict Anchor-Backbone-Anchor motifs required for molecular junction fabrication, achieving high accuracy in structural customization and generalization to homologous series. This study demonstrates the feasibility of a natural language-driven design workflow in single-molecule electronics, offering a new perspective on accelerating the discovery of functional molecular components.
+
+Table of content：
 ![Table of content](Images/ToC.png)
 
 ## Dependencies
@@ -61,7 +63,7 @@ All experiments are implemented as **interactive Jupyter Notebooks** in the `Fin
 ### Finetuning Experiment
 #### Experiment Workflow
 The entire experimental pipeline for SingMolT5 is shown below:
-![SingMolT5 Experiment Pipeline](Images/experiment_pipeline.png)
+![SingMolT5 Experiment Pipeline](Images/FT_pipeline.png)
 #### 1. Finetuning (cap2mol Task)
 Finetune SingMolT5/MolT5/T5 on the cap2mol task with scale-specific notebooks:
 - `FTsmall_cap2mol.ipynb`: Finetuning for small-scale models
