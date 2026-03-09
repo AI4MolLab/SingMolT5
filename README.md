@@ -127,5 +127,4 @@ This repository is licensed under the [MIT License](LICENSE) — see the `LICENS
 
 ## Author
 - Yiheng Zhao (Email: a690209967@163.com)
-- Saisai Yuan (Email: yuansaisai@just.edu.cn)
 - Zhichao Pan (Email: panzhichao@guet.edu.cn)
