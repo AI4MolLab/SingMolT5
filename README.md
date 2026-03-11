@@ -1,7 +1,7 @@
 # SingMolT5
 This repository hosts the official code and curated datasets for **SingMolT5**—a specialized extension of MolT5/T5 models tailored for Single-molecule generation tasks, with a primary focus on the *caption-to-molecule (cap2mol)* task (generating molecular structures from textual descriptions).
 
-## Table of Contents
+## Contents
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
 - [Dataset](#dataset)
@@ -15,7 +15,6 @@ This repository hosts the official code and curated datasets for **SingMolT5**�
 ## Introduction
 The design of single-molecule junctions is the cornerstone of molecular electronics but has long relied on chemical intuition and serendipitous discovery, lacking a systematic, intelligent design framework. Unlike traditional deep learning models that are often constrained to specific tasks, Large Language Models (LLMs) map the vast, discrete chemical space into a continuous semantic representation. This capability facilitates a paradigm shift in scientific discovery, democratizing molecular design by enabling researchers to generate complex structures through intuitive natural language descriptions. However, directly applying this generative paradigm is fundamentally hindered because general LLMs lack the intrinsic capability to adhere to the strict topological rules of single-molecule junctions, particularly regarding precise anchoring group placement and backbone configuration. Here, we present a proof-of-concept study by constructing a pilot instruction-tuning dataset and systematically evaluating two adaptation strategies—In-Context Learning (ICL) and Fine-Tuning—on pre-trained molecular LLMs. Our results reveal that while ICL demonstrates basic chemical understanding, only the fine-tuning strategy successfully captures the strict Anchor-Backbone-Anchor motifs required for molecular junction fabrication, achieving high accuracy in structural customization and generalization to homologous series. This study demonstrates the feasibility of a natural language-driven design workflow in single-molecule electronics, offering a new perspective on accelerating the discovery of functional molecular components.
 
-Table of content：
 ![Table of content](Images/ToC.png)
 
 ## Dependencies
@@ -35,7 +34,7 @@ jupyterlab >= 3.0.0
 
 ```
 
-### Environment rebuild (Conda Recommended)
+### Setup Environment (Conda Recommended)
 For a reproducible environment (aligned with PyTorch 2.1.1 + CUDA 12.1), use the provided Conda YAML configuration:
 ```bash
 # Create environment from YAML file
@@ -68,7 +67,7 @@ The entire experimental pipeline for SingMolT5 is shown below:
 Finetune SingMolT5/MolT5/T5 on the cap2mol task with scale-specific notebooks:
 - `FTsmall_cap2mol.ipynb`: Finetuning for small-scale models
 - `FTbase_cap2mol.ipynb`: Finetuning for base-scale models
-- `FTlarge_cap2mol.ipynb`: Finetuning for large-scale models (note: filename typo `FTlarge_cap2mo.ipynb` is corrected here)
+- `FTlarge_cap2mol.ipynb`: Finetuning for large-scale models
 
 #### 2. Evaluation
 Evaluate model performance on molecular generation metrics (e.g., validity, uniqueness, anchor fidelity) with scale-specific notebooks:
@@ -85,7 +84,7 @@ Validate the reliability of generated molecules by checking anchor fidelity acro
 ## Directory Structure
 ```
 SingMolT5/
-├── LICENSE               # Open-source license (to be specified)
+├── LICENSE               # GNU GPL v3.0 License
 ├── README.md             # Repository documentation
 ├── Environment_rebuild.yml     # Environment rebuild
 ├── environment_pip.txt         # Extra packages
@@ -104,7 +103,7 @@ SingMolT5/
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/SingMolT5.git
+git clone https://github.com/AI4MolLab/SingMolT5.git
 cd SingMolT5
 ```
 
@@ -119,11 +118,11 @@ jupyter notebook
 - Experimental results will be saved to `Finetune/result/`.
 
 ## License
-This repository is licensed under the [MIT License](LICENSE) — see the `LICENSE` file for details. (Replace with your actual license, e.g., Apache 2.0, if needed)
+This repository is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE) — see the `LICENSE` file for details.
 
 ## Acknowledgements
 - This work builds on the open-source MolT5/T5 models from Hugging Face and the RDKit toolkit for molecular processing.
-- We thank the contributors of molecular generation datasets for enabling reproducible research in this field.
+- We thank the contributors of prior single-molecule research, whose work enabled the construction of the instruction-tuning dataset in this study.
 
 ## Author
 - Yiheng Zhao (Email: a690209967@163.com)
