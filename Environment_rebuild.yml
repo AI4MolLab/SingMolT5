@@ -1,0 +1,26 @@
+name: myEnv
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.18
+  - pip
+
+  # ---- GPU PyTorch stack ----
+  - pytorch=2.1.1
+  - pytorch-cuda=12.1
+  - torchvision=0.16.1
+  - torchaudio=2.1.1
+
+  # ---- packages ----
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - notebook
+  - ipykernel
+  - fastprogress
+  - rdkit

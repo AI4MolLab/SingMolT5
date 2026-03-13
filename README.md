@@ -3,10 +3,10 @@ This repository hosts the official code and curated datasets for **SingMolT5**�
 
 ## Contents
 - [Introduction](#introduction)
+- [Directory Structure](#directory-structure)
 - [Dependencies](#dependencies)
 - [Dataset](#dataset)
 - [Experiments](#experiments)
-- [Directory Structure](#directory-structure)
 - [Usage](#usage)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -16,6 +16,36 @@ This repository hosts the official code and curated datasets for **SingMolT5**�
 The design of single-molecule junctions is the cornerstone of molecular electronics but has long relied on chemical intuition and serendipitous discovery, lacking a systematic, intelligent design framework. Unlike traditional deep learning models that are often constrained to specific tasks, Large Language Models (LLMs) map the vast, discrete chemical space into a continuous semantic representation. This capability facilitates a paradigm shift in scientific discovery, democratizing molecular design by enabling researchers to generate complex structures through intuitive natural language descriptions. However, directly applying this generative paradigm is fundamentally hindered because general LLMs lack the intrinsic capability to adhere to the strict topological rules of single-molecule junctions, particularly regarding precise anchoring group placement and backbone configuration. Here, we present a proof-of-concept study by constructing a pilot instruction-tuning dataset and systematically evaluating two adaptation strategies—In-Context Learning (ICL) and Fine-Tuning—on pre-trained molecular LLMs. Our results reveal that while ICL demonstrates basic chemical understanding, only the fine-tuning strategy successfully captures the strict Anchor-Backbone-Anchor motifs required for molecular junction fabrication, achieving high accuracy in structural customization and generalization to homologous series. This study demonstrates the feasibility of a natural language-driven design workflow in single-molecule electronics, offering a new perspective on accelerating the discovery of functional molecular components.
 
 ![Table of content](Images/ToC.png)
+
+## Directory Structure
+```
+SingMolT5/
+├── Dataset/              # SME-Instruct Dataset
+│   ├── MolGen_Train.csv/xlsx
+│   ├── MolGen_Test.csv/xlsx
+│   └── MolGen_Evl.csv/xlsx
+├── Finetune/             # Instruction fine-tuning experiment code
+│   ├── result/           # fine-tuning experiment results
+│   ├── util/             # Metrics calculation tool
+│   ├── Anchor_fidelity_*.ipynb   # Anchor fidelity calculation
+│   ├── Eval_metrics_*.ipynb      # Metrics calculation
+│   └── FT*_cap2mol.ipynb # Fine-tuning for different sizes models
+├── ICL/                  # In-Context Learning (ICL) experiment code
+│   ├── result/           # ICL experiment results
+│   ├── util/             # Metrics calculation tool
+│   ├── ICL_Llama_*B.ipynb        # ICL experiment for Llama-3B/8B under k=0,3,5,10
+│   ├── ICL_Llama_*B_score.ipynb  # Metrics calculation for Llama-3B/8B under k=0,3,5,10
+│   ├── ICL_T5_3B.ipynb           # ICL experiment for T5-3B under k=0,3,5,10
+│   └── ICL_T5_3B_score.ipynb     # Metrics calculation for T5-3B under k=0,3,5,10
+├── Images/               # Experiment pipeline/result visualization
+│   ├── ToC.png
+│   ├── FT_pipeline.png
+│   └── ICL_pipeline.png
+├── Environment_pip.txt         # Extra packages
+├── Environment_rebuild.yml     # Environment rebuild
+├── LICENSE               # GNU GPL v3.0 License
+└── README.md             # Repository documentation
+```
 
 ## Dependencies
 Ensure the following core dependencies are installed:
@@ -81,24 +111,10 @@ Validate the reliability of generated molecules by checking anchor fidelity acro
 - `Anchor_fidelity_MolT5.ipynb`: MolT5 model validation
 - `Anchor_fidelity_SingMolT5.ipynb`: SingMolT5 model validation
 
-## Directory Structure
-```
-SingMolT5/
-├── LICENSE               # GNU GPL v3.0 License
-├── README.md             # Repository documentation
-├── Environment_rebuild.yml     # Environment rebuild
-├── environment_pip.txt         # Extra packages
-├── Finetune/             # Core experimental code (Jupyter Notebooks)
-│   ├── result/           # Stores experimental results (e.g., metrics, logs)
-│   ├── util/             # Auxiliary utility functions for experiments
-│   ├── Anchor_fidelity_*.ipynb  # Anchor fidelity validation notebooks
-│   ├── Eval_metrics_*.ipynb     # Model evaluation notebooks
-│   └── FT*_cap2mol.ipynb        # Finetuning notebooks for cap2mol task
-└── Dataset/              # MolGen task datasets
-    ├── MolGen_Train.csv/xlsx
-    ├── MolGen_Test.csv/xlsx
-    └── MolGen_Evl.csv/xlsx
-```
+### Finetuning Experiment
+#### Experiment Workflow
+The entire experimental pipeline for ICL is shown below:
+![ICL Experiment Pipeline](Images/ICL_pipeline.png)
 
 ## Usage
 ### 1. Clone the Repository
