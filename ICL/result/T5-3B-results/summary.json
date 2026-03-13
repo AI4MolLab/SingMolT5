@@ -1,0 +1,17 @@
+{
+  "model": "T5-3B",
+  "K_SHOTS": [
+    0,
+    3,
+    5,
+    10
+  ],
+  "num_samples": 60,
+  "seed": 42,
+  "result_files": [
+    "t5_icl_k0.csv",
+    "t5_icl_k3.csv",
+    "t5_icl_k5.csv",
+    "t5_icl_k10.csv"
+  ]
+}

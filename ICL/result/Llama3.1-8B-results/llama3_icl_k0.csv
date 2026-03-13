@@ -1,0 +1,694 @@
+index,k_shot,caption,true_smiles,pred_smiles,raw_text
+0,0,This molecule has two pyridine cores linked by a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=NC(=C1)C#CC#C,"C1=CC=NC(=C1)C#CC#C
+
+
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC"
+1,0,This molecule uses a diacetylene chain to link two pyridine rings.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=NC=C1C#CC1=CC=NC=C1,"C1=CC=NC=C1C#CC1=CC=NC=C1
+
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C#CC1=CC=NC=C1}$
+
+The final answer is: $\boxed{C1=CC="
+2,0,This molecule connects two pyridine rings via a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=NC(=C1)C#CC#C,"C1=CC=NC(=C1)C#CC#C
+
+
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC=NC(=C1)C#CC#C
+The final answer is: C1=CC"
+3,0,This molecule consists of a diphenylacetylene backbone with carboxyl groups attached to each benzene ring.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O,"CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)C1=CC=CC=C1C#CC2=CC=CC=C2C(=O)O
+CC(=O)"
+4,0,This molecule features a diphenylacetylene backbone featuring carboxyl groups bonded to both benzene rings.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O,"CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C(=O)O
+CC(=C(C1=CC=CC=C1)C"
+5,0,"This molecule contains a diphenylacetylene framework, where carboxyl groups are positioned on the two benzene rings linked by an ethynyl group, and both groups function as anchor groups.",C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O,"CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C1=CC=CC=C1)C#C(C2=CC=CC=C2)C(=O)O)C(=O)O
+CC(=C(C"
+6,0,"This molecule has an anthracene core with sulfhydryl groups  attached, acting as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=CC2=C1C(=CC3=C2C=CC(=C3)SS)C4=C5C=CC(=C5C6=C4C=CC(=C6)SS)C7=C8C=CC(=C8C9=C7C=CC(=C9)SS)C10=C11C=CC(=C11C12=C10C=CC(=C12)SS)C13=C14C=CC(=C14C15=C13C=CC(=C15)SS)C16=C17C=CC(=C17C18=C16C=CC(=C18)SS)C19=C20C=CC(=C20C21=C19C=CC(=C21)SS)C22=C23C=CC(=C23C24=C22C=CC(=C24)SS)C25=C26C=CC(=C26C27=C25C=CC(=C27)SS)C28=C29C=CC(=C29C30=C28C=CC(=C30)SS)C31=C32C=CC(=C32C33=C31C=CC(=C33)SS)C34,C1=CC=CC2=C1C(=CC3=C2C=CC(=C3)SS)C4=C5C=CC(=C5C6=C4C=CC(=C6)SS)C7=C8C=CC(=C8C9=C7C=CC(=C9)SS)C10=C11C=CC(=C11C12=C10C=CC(=C12)SS)C13=C14C=CC(=C14C15=C13C=CC(=C15)SS)C16=C17C=CC(=C17C18=C16C=CC(=C18)SS)C19=C20C=CC(=C20C21=C19C=CC(=C21)SS)C22=C23C=CC(=C23C24=C22C=CC(=C24)SS)C25=C26C=CC(=C26C27=C25C=CC(=C27)SS)C28=C29C=CC(=C29C30=C28C=CC(=C30)SS)C31=C32C=CC(=C32C33=C31C=CC(=C33)SS)C34
+7,0,"This molecule features an anthracene framework where sulfhydryl groups bond to symmetric sites, serving as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S,"CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C1)S)S)S
+CC1=CC2=C(C=CC(=CC2=CC(=C"
+8,0,"This molecule uses an anthracene skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=CC2=C1C(=CC3=C2C=CC(=C3)SS)C4=C5C=CC(=C5C6=C4C=CC(=C6)SS)C7=C8C=CC(=C8C9=C7C=CC(=C9)SS)C10=C11C=CC(=C11C12=C10C=CC(=C12)SS)C13=C14C=CC(=C14C15=C13C=CC(=C15)SS)C16=C17C=CC(=C17C18=C16C=CC(=C18)SS)C19=C20C=CC(=C20C21=C19C=CC(=C21)SS)C22=C23C=CC(=C23C24=C22C=CC(=C24)SS)C25=C26C=CC(=C26C27=C25C=CC(=C27)SS)C28=C29C=CC(=C29C30=C28C=CC(=C30)SS)C31=C32C=CC(=C32C33=C31C=CC(=C33)SS)C34,C1=CC=CC2=C1C(=CC3=C2C=CC(=C3)SS)C4=C5C=CC(=C5C6=C4C=CC(=C6)SS)C7=C8C=CC(=C8C9=C7C=CC(=C9)SS)C10=C11C=CC(=C11C12=C10C=CC(=C12)SS)C13=C14C=CC(=C14C15=C13C=CC(=C15)SS)C16=C17C=CC(=C17C18=C16C=CC(=C18)SS)C19=C20C=CC(=C20C21=C19C=CC(=C21)SS)C22=C23C=CC(=C23C24=C22C=CC(=C24)SS)C25=C26C=CC(=C26C27=C25C=CC(=C27)SS)C28=C29C=CC(=C29C30=C28C=CC(=C30)SS)C31=C32C=CC(=C32C33=C31C=CC(=C33)SS)C34
+9,0,"This molecule contains a Biphenyl structure consisting of two benzene rings, each with an amino group attached as anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC=C(C=C1)NC2=CC=CC=C2,"C1=CC=C(C=C1)NC2=CC=CC=C2
+
+
+The final answer is: $\boxed{C1=CC=C(C=C1)NC2=CC=CC=C2}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$"
+10,0,"This molecule has a Biphenyl made up of two benzene rings, each containing an amino anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC=C(C=C1)NC2=CC=CC=C2,"C1=CC=C(C=C1)NC2=CC=CC=C2
+
+
+The final answer is: $\boxed{C1=CC=C(C=C1)NC2=CC=CC=C2}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$}}$"
+11,0,"This molecule is composed of a Biphenyl structure with two benzene rings, each containing an amino group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC=C(C=C1)NC2=CC=CC=C2,"C1=CC=C(C=C1)NC2=CC=CC=C2
+
+
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1=CC=C(C=C1)NC2=CC=CC=C2
+The final answer is: C1="
+12,0,"This molecule has a naphthalene core with methylthio groups attached to symmetric positions, acting as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,C1=CC=CC=C2C(=C1)S(=O)(=S)C2,"C1=CC=CC=C2C(=C1)S(=O)(=S)C2
+
+
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C1=CC=CC=C2C(=C1)S(=O)(=S)C2}$ 
+The final answer is: $\boxed{C"
+13,0,"This molecule features a naphthalene framework where methylthio groups bond to symmetric sites of the naphthalene rings, serving as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC=C2CC1=CC=CC2=C1SC,"CC1=CC=CC2=C1SC=C2
+
+
+The final answer is: CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC=C2 CC1=CC=CC2=C1SC"
+14,0,"This molecule uses a naphthalene skeleton with methylthio groups connecting to symmetric positions, functioning as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC=CC=C2C(=C1)SC(=S)C2,"CC1=CC=CC=C2C(=C1)SC(=S)C2
+
+
+The final answer is: CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C1)SC(=S)C2
+CC1=CC=CC=C2C(=C"
+15,0,"This molecule has a pyridine core with two sulfhydryl groups attached to the 2nd and 6th carbons, acting as anchor groups.",SC1=CC=CC(S)=N1,CC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc1ccc(cc1)SCC(=O)Nc,"```
+CC(=O)Nc1ccc(cc1)S
+```
+
+The final answer is: CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc1ccc(cc1)S CC(=O)Nc"
+16,0,"This molecule features a pyridine framework where sulfhydryl moieties bond to symmetric sites of the pyridine ring, serving as anchor groups.",SC1=CC=CC(S)=N1,CC1=CC=NC(=S)S1,"CC1=CC=NC(=S)S1
+
+
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC1=CC=NC(=S)S1
+The final answer is: CC"
+17,0,"This molecule uses a pyridine skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=CC(S)=N1,C1=CC=NC(=C1)SS,"C1=CC=NC(=C1)SS
+
+
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C1=CC=NC(=C1)SS
+The final answer is: C"
+18,0,"This molecule has a pyridine core with S-Methyl thioacetate groups attached to the 3rd and 5th carbons, acting as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=O)S(C)C1=CN=CC=C1,"CC(=O)S(C)C1=CN=CC=C1
+
+
+The final answer is: CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN=CC=C1
+CC(=O)S(C)C1=CN"
+19,0,"This molecule features a pyridine framework where two S-Methyl thioacetate groups bond to symmetric sites of the pyridine ring, serving as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=S)SC(=S)C1=CN=CC=C1,"CC(=S)SC(=S)C1=CN=CC=C1
+
+
+The final answer is: CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN=CC=C1
+CC(=S)SC(=S)C1=CN="
+20,0,"This molecule uses a pyridine skeleton with S-Methyl thioacetate groups connecting to symmetric positions, functioning as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=S)SC,"CC(=S)SC
+
+
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S)SC
+The final answer is: CC(=S"
+21,0,"This molecule has a pyrene core with methylamino groups attached to symmetric positions, acting as anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,C1=CC2=C(C3=C(C4=C(C5=C(C6=C(C7=C(C8=C(C9=C(C10=C(C11=C(C12=C(C13=C(C14=C(C15=C(C16=C(C17=C(C18=C(C19=C(C20=C(C21=C(C22=C(C23=C(C24=C(C25=C(C26=C(C27=C(C28=C(C29=C(C30=C(C31=C(C32=C(C33=C(C34=C(C35=C(C36=C(C37=C(C38=C(C39=C(C40=C(C41=C(C42=C(C43=C(C44=C(C45=C(C46=C(C47=C(C48=C(C49=C(C50=C(C51=C(C52=C(C53=C(C54=C(C55=C(C56=C(C57=C(C58=C(C59=C(C60=C(C61=C(C62=C(C63=C(C64=C(C65=C(C66=C(C67=C(C68=C(C69=C(C70=C(C71=C(C72=C(C73=C(C74=C(C75=C(C76=C(C77=C(C78=C(C79=C(C80=C(C81=C(C82=C(C83=C(C84=C(C85=C(C,C1=CC2=C(C3=C(C4=C(C5=C(C6=C(C7=C(C8=C(C9=C(C10=C(C11=C(C12=C(C13=C(C14=C(C15=C(C16=C(C17=C(C18=C(C19=C(C20=C(C21=C(C22=C(C23=C(C24=C(C25=C(C26=C(C27=C(C28=C(C29=C(C30=C(C31=C(C32=C(C33=C(C34=C(C35=C(C36=C(C37=C(C38=C(C39=C(C40=C(C41=C(C42=C(C43=C(C44=C(C45=C(C46=C(C47=C(C48=C(C49=C(C50=C(C51=C(C52=C(C53=C(C54=C(C55=C(C56=C(C57=C(C58=C(C59=C(C60=C(C61=C(C62=C(C63=C(C64=C(C65=C(C66=C(C67=C(C68=C(C69=C(C70=C(C71=C(C72=C(C73=C(C74=C(C75=C(C76=C(C77=C(C78=C(C79=C(C80=C(C81=C(C82=C(C83=C(C84=C(C85=C(C
+22,0,This molecule features a pyrene framework where Methylamino anchor groups bond to symmetric sites of the pyrene rings.,CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,C1=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC,"```
+C1=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC7=C(C=CC8=C(C=CC9=C(C=CC1=C(C=CC2=C(C=CC3=C(C=CC4=C(C=CC5=C(C=CC6=C(C=CC"
+23,0,"This molecule uses a pyrene skeleton with methylamino groups connecting to symmetric positions, functioning as potential anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,C1=CC=CC2=C(C(=C1)C(=C3C=CC=CC=C3)C(=C4C=CC=CC=C4)C(=C5C=CC=CC=C5)C(=C6C=CC=CC=C6)C(=C7C=CC=CC=C7)C(=C8C=CC=CC=C8)C(=C9C=CC=CC=C9)C(=C10C=CC=CC=C10)C(=C11C=CC=CC=C11)C(=C12C=CC=CC=C12)C(=C13C=CC=CC=C13)C(=C14C=CC=CC=C14)C(=C15C=CC=CC=C15)C(=C16C=CC=CC=C16)C(=C17C=CC=CC=C17)C(=C18C=CC=CC=C18)C(=C19C=CC=CC=C19)C(=C20C=CC=CC=C20)C(=C21C=CC=CC=C21)C(=C22C=CC=CC=C22)C(=C,C1=CC=CC2=C(C(=C1)C(=C3C=CC=CC=C3)C(=C4C=CC=CC=C4)C(=C5C=CC=CC=C5)C(=C6C=CC=CC=C6)C(=C7C=CC=CC=C7)C(=C8C=CC=CC=C8)C(=C9C=CC=CC=C9)C(=C10C=CC=CC=C10)C(=C11C=CC=CC=C11)C(=C12C=CC=CC=C12)C(=C13C=CC=CC=C13)C(=C14C=CC=CC=C14)C(=C15C=CC=CC=C15)C(=C16C=CC=CC=C16)C(=C17C=CC=CC=C17)C(=C18C=CC=CC=C18)C(=C19C=CC=CC=C19)C(=C20C=CC=CC=C20)C(=C21C=CC=CC=C21)C(=C22C=CC=CC=C22)C(=C
+24,0,"This molecule consists of a benzene ring as the backbone, with cyano groups attached to two opposite carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1,"CN1=CC=CC=C1
+
+
+The final answer is: CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1"
+25,0,"This molecule has a benzene ring as the core structure, featuring cyano groups bonded to two distinct ring carbons as anchor groups to access electrodes.",C1=CC(=CC=C1C#N)C#N,CN1=CC=CC=C1,"CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC=CC=C1
+CN1=CC"
+26,0,"This molecule contains a benzene ring framework, with cyano groups positioned on two separate carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1,"CN1=CC=CC=C1
+
+
+The final answer is: CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1=CC=CC=C1CN1"
+27,0,This molecule consists of a naphthalene backbone with iodine atoms attached to each benzene ring as anchor groups.,IC1=CC2=C(C=C1)C=C(I)C=C2,InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H,"```
+InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H
+```
+
+```
+InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H
+```
+
+```
+InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H
+```
+
+```
+InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H
+```
+
+```
+InChI=1S/C10H8I2/c11-7-1-2-8(12)4-5-9(7)10-6-3-8/h1-6H
+```
+
+```
+InChI="
+28,0,"This molecule has a naphthalene core structure, featuring iodine atoms bonded to both benzene rings as anchor groups.",IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC=CC=C1C2=CC=CC=C2I,"```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC=C2I
+C1=CC=CC=C1C2=CC=CC=C2I
+```
+```
+C1=CC=CC=C1C2=CC=CC"
+29,0,"This molecule contains a naphthalene framework, where iodine atoms are positioned on the two benzene rings.",IC1=CC2=C(C=C1)C=C(I)C=C2,InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H,"```
+InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H
+```
+
+```
+InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H
+```
+
+```
+InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H
+```
+
+```
+InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H
+```
+
+```
+InChI=1S/C10H8I2/c11-9-7-5-3-1-2-4-6-8-10(12)9/h1-8H
+```
+
+```
+InChI=1S/C10H8I2/c11"
+30,0,"This molecule uses a benzene skeleton with thiophene groups connecting to the para carbons, functioning as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=C(C=C1)SC2=CC=CS2,"C1=CC=C(C=C1)SC2=CC=CS2
+
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)SC2=CC=CS2}$
+
+The final answer is:"
+31,0,"This molecule has a benzene core with two thiophene groups attached to symmetric para positions, acting as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,CC1=CC=C(C=C1)SC2=CS=CS2,"CC1=CC=C(C=C1)SC2=CS=CS2
+
+
+The final answer is: CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS=CS2
+CC1=CC=C(C=C1)SC2=CS"
+32,0,"This molecule features a benzene framework where thiophene rings bond to opposite positions of the benzene core, serving as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,CC1=CC=C(C=C1)SC2=CC=CS2,"CC1=CC=C(C=C1)SC2=CC=CS2
+
+
+The final answer is: CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC=CS2
+CC1=CC=C(C=C1)SC2=CC"
+33,0,This molecule contains two thiophene groups that are attached to serve as anchor groups.,C1=CSC=C1C2=CSC=C2,CC(=O)Nc1ccc(cc1)S1=C=CS1,"CC(=O)Nc1ccc(cc1)S1=C=CS1
+
+
+The final answer is: CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1"
+34,0,This molecule has two thiophene groups functioning as anchor groups.,C1=CSC=C1C2=CSC=C2,CC(=O)Nc1ccc(cc1)S1=C=CS1,"CC(=O)Nc1ccc(cc1)S1=C=CS1
+
+
+The final answer is: CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1"
+35,0,This molecule features two thiophene groups that act as anchor groups.,C1=CSC=C1C2=CSC=C2,CC(=O)Nc1ccc(cc1)S1=C=CS1,"CC(=O)Nc1ccc(cc1)S1=C=CS1
+
+
+The final answer is: CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1
+CC(=O)Nc1ccc(cc1)S1=C=CS1"
+36,0,"This molecule features a biphenyl structure with four amino groups attached to symmetric positions, acting as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=NCC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=NCC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=NCC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N,"CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N
+
+
+The final answer is: CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N CC1=CC=C(C=C1)N/N=C2C=CC=CC2=N/N=C3C=CC=CC3=N/N=C4C=CC=CC4=N/N=C5C=CC=CC5=N"
+37,0,"This molecule uses a biphenyl framework where four amino moieties bond to the benzene rings, functioning as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC,"CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5
+
+
+The final answer is: CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC=CC=C4N/N=C5C=CC=CC=C5CC1=CC=C(C=C1)N/N=C2C=CC=CC=C2N/N=C3C=CC=CC=C3N/N=C4C=CC"
+38,0,This molecule has a biphenyl core with four amino groups as anchor groups.,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C,"CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2
+
+
+The final answer is: CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C1)C2=CC=CC=C2CN(C)C1=CC=C(C=C"
+39,0,"This molecule has a furan core with two pyridyl groups attached to symmetric positions, acting as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,OC1=CC=CC2=C1C(=O)N=C2N,"OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC=CC2=C1C(=O)N=C2N
+OC1=CC"
+40,0,This molecule uses a furan framework where two pyridyl groups are attached to serve as anchor groups.,C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,OC1=CC=CC2=C1C=CC(=O)N2,"OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC=CC2=C1C=CC(=O)N2
+OC1=CC"
+41,0,"This molecule features a furan core anchored by pyridyl rings, functioning as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,OC1=CC=CC2=C1C=CC(=O)N2,"OC1=CC=CC2=C1C=CC(=O)N2
+
+
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1=CC=CC2=C1C=CC(=O)N2
+The final answer is: OC1="
+42,0,This molecule contains a naphthalene core with S-methyl thioacetate anchor groups.,CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)CCC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)CCC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)CCC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)CCC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N,"CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)C
+
+
+The final answer is: CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)C CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)C CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)C CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N)S(=O)(=O)N)S(=O)(=O)N)C CC1=CC2=C(C=CC(=C2C(=C1)S(=O)(=O)N"
+43,0,"This molecule uses a naphthalene skeleton where S-methyl thioacetate moieties bond to symmetric positions of the naphthalene ring, functioning as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)CCC1=CC=CC2,"CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C
+
+
+The final answer is: CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2=C1C(=C(C=C2)SC(=O)C)SC(=O)C CC1=CC=CC2"
+44,0,"This molecule features a naphthalene framework with two S-methyl thioacetate groups attached to the aromatic core, acting as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2CC1=CC=CC=C2C(=C1)C(=O)SC,"CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2
+
+
+The final answer is: CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC(C)C(=O)SC(C)C2 CC1=CC=CC=C2C(=C1)C(=O)SC"
+45,0,"This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C,"CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13
+
+
+The final answer is: CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C"
+46,0,"This molecule features a fluoren-9-one core where methylthio moieties bond to the benzene rings, functioning as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13CC1=CC2=C(C=C(C=C2)S(C)C)C,"CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13
+
+
+The final answer is: CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C(=O)C3=CC=CC=C13 CC1=CC2=C(C=C(C=C2)S(C)C)C"
+47,0,"This molecule contains a fluoren-9-one core, each benzene ring linked to a methylthio group serving as anchor group.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2CC1=CC=CC2=C1C(=O)C3=CC=CC=C,"CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2
+
+
+The final answer is: CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C3S2 CC1=CC=CC2=C1C(=O)C3=CC=CC=C"
+48,0,"This molecule contains a thiophene core, with carboxyl anchor groups attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC1=CC=CS1C(=O)O,"```
+CC1=CC=CS1C(=O)O
+```
+
+```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O"
+49,0,"This molecule uses a thiophene skeleton with carboxyl groups connecting to its 1st and 4th carbons, and these groups function as anchor groups.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC1=CC=CS1C(=O)O,"```
+CC1=CC=CS1C(=O)O
+```
+
+```
+CC1=CC=CS1C(=O)O
+```
+
+```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O"
+50,0,"This molecule has a thiophene core with carboxyl groups, where carboxyl groups are attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC1=CC=CS1C(=O)O,"```
+CC1=CC=CS1C(=O)O
+```
+
+```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O
+``` ```
+CC1=CC=CS1C(=O)O"
+51,0,"This molecule is composed of a bicyclic structure with two benzene rings connected by a furan, and each benzene ring is attached to an amino group serving as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC=CC2=C1C(=O)N(C(=O)N2C3=CC=CC=C3)C4=CC=CC=C4,"C1=CC=CC2=C1C(=O)N(C(=O)N2C3=CC=CC=C3)C4=CC=CC=C4
+
+
+The final answer is: $\boxed{C1=CC=CC2=C1C(=O)N(C(=O)N2C3=CC=CC=C3)C4=CC=CC=C4}$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$"
+52,0,"This molecule has a fused ring system made up of two benzene rings linked by a furan, with amino groups attached to each benzene ring acting as anchor groups.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC(=CC(=C4N)C5=C6C=CC(=C6O5)C7=C8C=CC(=C8O7)C9=C10C=CC(=C10O9)C11=C12C=CC(=C12O11)C13=C14C=CC(=C14O13)C15=C16C=CC(=C16O15)C17=C18C=CC(=C18O17)C19=C20C=CC(=C20O19)C21=C22C=CC(=C22O21)C23=C24C=CC(=C24O23)C25=C26C=CC(=C26O25)C27=C28C=CC(=C28O27)C29=C30C=CC(=C30O29)C31=C32C=CC(=C32O31)C33=C34C=CC(=C34O33)C35=C36C=CC(=C36O35)C37=C38C=CC(=C38O37)C,C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC(=CC(=C4N)C5=C6C=CC(=C6O5)C7=C8C=CC(=C8O7)C9=C10C=CC(=C10O9)C11=C12C=CC(=C12O11)C13=C14C=CC(=C14O13)C15=C16C=CC(=C16O15)C17=C18C=CC(=C18O17)C19=C20C=CC(=C20O19)C21=C22C=CC(=C22O21)C23=C24C=CC(=C24O23)C25=C26C=CC(=C26O25)C27=C28C=CC(=C28O27)C29=C30C=CC(=C30O29)C31=C32C=CC(=C32O31)C33=C34C=CC(=C34O33)C35=C36C=CC(=C36O35)C37=C38C=CC(=C38O37)C
+53,0,"This molecule contains a bicyclic structure consisting of two benzene rings connected by a furan, with each benzene ring attached to an amino group as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC(=CC=C1N)C2=CC(=C(C=C2)O)C3=CC(=C(C=C3)N)C4=CC(=C(C=C4)O)C5=CC(=C(C=C5)N)C6=CC(=C(C=C6)O)C7=CC(=C(C=C7)N)C8=CC(=C(C=C8)O)C9=CC(=C(C=C9)N)C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)N)C3=CC(=C(C=C3)O)C4=CC(=C(C=C4)N)C5=CC(=C(C=C5)O)C6=CC(=C(C=C6)N)C7=CC(=C(C=C7)O)C8=CC(=C(C=C8)N)C9=CC(=C(C=C9)O)C1=CC(=C(C=C1)N)C2=CC(=C(C=C2)O)C3=CC(=C(C=C3)N)C4=CC(=C,C1=CC(=CC=C1N)C2=CC(=C(C=C2)O)C3=CC(=C(C=C3)N)C4=CC(=C(C=C4)O)C5=CC(=C(C=C5)N)C6=CC(=C(C=C6)O)C7=CC(=C(C=C7)N)C8=CC(=C(C=C8)O)C9=CC(=C(C=C9)N)C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)N)C3=CC(=C(C=C3)O)C4=CC(=C(C=C4)N)C5=CC(=C(C=C5)O)C6=CC(=C(C=C6)N)C7=CC(=C(C=C7)O)C8=CC(=C(C=C8)N)C9=CC(=C(C=C9)O)C1=CC(=C(C=C1)N)C2=CC(=C(C=C2)O)C3=CC(=C(C=C3)N)C4=CC(=C
+54,0,"This molecule contains a phenanthrene core, with two amino groups attached to the terminal benzene rings as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4,"C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4
+
+
+The final answer is: $\boxed{C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4}$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$"
+55,0,"This molecule has a phenanthrene backbone, where amino groups are positioned on the terminal benzene rings, serving as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC(=CC=C(C(=C1)C2=CC(=CC=C2N)C3=CC(=CC=C3N)C4=CC(=CC=C4N)C5=CC(=CC=C5N)C6=CC(=CC=C6N)C7=CC(=CC=C7N)C8=CC(=CC=C8N)C9=CC(=CC=C9N)C10=CC(=CC=C10N)C11=CC(=CC=C11N)C12=CC(=CC=C12N)C13=CC(=CC=C13N)C14=CC(=CC=C14N)C15=CC(=CC=C15N)C16=CC(=CC=C16N)C17=CC(=CC=C17N)C18=CC(=CC=C18N)C19=CC(=CC=C19N)C20=CC(=CC=C20N)C21=CC(=CC=C21N)C22=CC(=CC=C22N)C23=CC(=CC=C23N)C24=CC(=CC=C24N)C25=CC(=CC=C25N)C26=CC,C1=CC(=CC=C(C(=C1)C2=CC(=CC=C2N)C3=CC(=CC=C3N)C4=CC(=CC=C4N)C5=CC(=CC=C5N)C6=CC(=CC=C6N)C7=CC(=CC=C7N)C8=CC(=CC=C8N)C9=CC(=CC=C9N)C10=CC(=CC=C10N)C11=CC(=CC=C11N)C12=CC(=CC=C12N)C13=CC(=CC=C13N)C14=CC(=CC=C14N)C15=CC(=CC=C15N)C16=CC(=CC=C16N)C17=CC(=CC=C17N)C18=CC(=CC=C18N)C19=CC(=CC=C19N)C20=CC(=CC=C20N)C21=CC(=CC=C21N)C22=CC(=CC=C22N)C23=CC(=CC=C23N)C24=CC(=CC=C24N)C25=CC(=CC=C25N)C26=CC
+56,0,"This molecule uses a phenanthrene skeleton with two amino groups connecting to the terminal benzene rings, functioning as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4,"C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4
+
+
+The final answer is: $\boxed{C1=CC=C2C(=C(C(=C(C2=C1)N)N)C3=CC=CC=C3)C4=CC=CC=C4}$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$"
+57,0,"This molecule has two pyridine rings linked by a carbon atom, with each pyridine ring acting as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN,"CN1C=CC=CN=C1
+
+
+The final answer is: CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN=C1CN1C=CC=CN"
+58,0,"This molecule features two pyridine rings connected by a carbon atom, where each pyridine ring serves as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC=NC(=C8)C9=CC=NC(=C9)C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC=NC(=C8)C9=CC=NC(=C9)C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC,"```
+C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC=NC(=C8)C9=CC=NC(=C9)C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC=NC(=C8)C9=CC=NC(=C9)C1=CC=NC(=C1)C2=CC=NC(=C2)C3=CC=NC(=C3)C4=CC=NC(=C4)C5=CC=NC(=C5)C6=CC=NC(=C6)C7=CC=NC(=C7)C8=CC"
+59,0,"This molecule uses two pyridine rings as the core, linked by a carbon atom, functioning as anchor groups.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC=NC=C1C2=CC=NC=C2,"C1=CC=NC=C1C2=CC=NC=C2
+
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is: $\boxed{C1=CC=NC=C1C2=CC=NC=C2}$
+
+The final answer is:"

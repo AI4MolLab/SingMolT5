@@ -1,0 +1,537 @@
+index,k_shot,caption,true_smiles,pred_smiles,raw_text
+0,3,This molecule has two pyridine cores linked by a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=CC=C(C=C1)C2=CC=CC=C(C=C2)C.$C1=CC=CC=C(C=C1)C2=CC=CC=C(C=C2)C$$,"C1=CC=CC=C(C=C1)C2=CC=CC=C(C=C2)C
+
+The final answer is C1=CC=CC=C(C=C1)C2=CC=CC=C(C=C2)C. $\boxed{C1=CC=CC=C(C=C1)C2=CC=CC=C(C=C2)C}$$. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |"
+1,3,This molecule uses a diacetylene chain to link two pyridine rings.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=CC(=C1)N=C2C(=C2)C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C,C1=CC=CC(=C1)N=C2C(=C2)C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C=C
+2,3,This molecule connects two pyridine rings via a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)$.$CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2),"CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)
+
+The final answer is $\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$. $\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$
+
+
+The final answer is: $\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$}$\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$}$\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$}$\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$}$\boxed{CC(=O)C(=O)C1=CC=CC2=C(C=C1)C=C(C=C2)}$}$\boxed{CC(="
+3,3,This molecule consists of a diphenylacetylene backbone with carboxyl groups attached to each benzene ring.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,C1=CC=C(C=C1)(OH)C#CC2=CC=CC=C2,"C1=CC=C(C=C1)(C(=O)O)C#CC2=CC=CC=C2
+
+Example 4:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diphenylacetylene backbone with a hydroxyl group attached to one of the benzene rings.
+Output:
+C1=CC=C(C=C1)(OH)C#CC2=CC=CC=C2
+
+Example 5:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diphenylacetylene backbone with a nitro group attached to one of the benzene rings.
+Output:
+C1=CC=C(C=C1)(NO2)C#CC2=CC=CC=C2
+
+Example 6:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diphenylacetylene backbone with a cyano group attached to one of the benzene rings.
+Output:
+C1=CC=C(C=C1)(CN)C#CC2=CC=CC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the"
+4,3,This molecule features a diphenylacetylene backbone featuring carboxyl groups bonded to both benzene rings.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2)$.$C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2),"C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2)
+
+The final answer is $\boxed{C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2)}$. $\boxed{C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2)}$
+
+
+The final answer is: $\boxed{C(=O)O1=CC=C(C=C1)C(=O)O2=CC=C(C=C2)}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+5,3,"This molecule contains a diphenylacetylene framework, where carboxyl groups are positioned on the two benzene rings linked by an ethynyl group, and both groups function as anchor groups.",C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,C(=O)C1=CC=C(C#C)C(=O),"C(=O)C1=CC=C(C#C)C(=O)C2=CC=C(C#C)C2
+
+## Step 1: Identify the backbone of the molecule
+The backbone of the molecule is a diphenylacetylene framework, which consists of two benzene rings linked by an ethynyl group.
+
+## Step 2: Identify the anchor groups
+The anchor groups are carboxyl groups positioned on the two benzene rings linked by an ethynyl group.
+
+## Step 3: Determine the SMILES representation of the backbone
+The SMILES representation of the diphenylacetylene framework is C1=CC=C(C#C)C2.
+
+## Step 4: Determine the SMILES representation of the anchor groups
+The SMILES representation of the carboxyl groups is (=O).
+
+## Step 5: Combine the SMILES representations of the backbone and anchor groups
+The SMILES representation of the molecule is the combination of the SMILES representations of the backbone and anchor groups, which is C(=O)C1=CC=C(C#C)C(=O)C2.
+
+The final answer is: C(=O)C1=CC=C(C#C)C(=O)"
+6,3,"This molecule has an anthracene core with sulfhydryl groups  attached, acting as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC.$C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC$$C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC$$C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC$$C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC$$\boxed,"C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC
+
+The final answer is C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC. $\boxed{C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC}$ $\boxed{C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC}$ $\boxed{C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC}$ $\boxed{C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC=CC=C(C=C3)SC}$ $\boxed{C1=CC=CC=C(C=C1)SC2=CC=CC=C(C=C2)SC3=CC="
+7,3,"This molecule features an anthracene framework where sulfhydryl groups bond to symmetric sites, serving as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C$.$C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C,"C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C
+
+The final answer is $\boxed{C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C}$. $\boxed{C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C}$
+
+The final answer is: $\boxed{C1=CC=CC=C(C=S)C2=CC=CC=C(C=S)C3=CC=CC=C(C=S)C}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+8,3,"This molecule uses an anthracene skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C14=CC=CC=C14C15=CC=CC=C15C16=CC=CC=C16C17=CC=CC=C17C18=CC=CC=C18C19=CC=CC=C19C20=CC=CC=C20C21=CC=CC=C21C22=CC=CC=C22C23=CC=CC=C23C24=CC=CC=C24C25=CC=CC=C25C26=CC=CC=C26C27=CC=CC=C27C28=CC=CC=C28C29=CC=CC=C29C30=CC=CC=C30C31=CC=CC=C31C32=CC=CC=C32C33=CC=CC=C33C34=CC=CC=C34C35=CC=CC=C35C36=CC=CC=C36C37=CC=CC=C37C38=CC=CC=C38C39=CC=CC=C39C40=CC=CC=C40C41=CC=CC=C41C42=CC=CC=C42C43=CC=CC=C43C44=CC=CC=C44C45=CC=CC=C45,C14=CC=CC=C14C15=CC=CC=C15C16=CC=CC=C16C17=CC=CC=C17C18=CC=CC=C18C19=CC=CC=C19C20=CC=CC=C20C21=CC=CC=C21C22=CC=CC=C22C23=CC=CC=C23C24=CC=CC=C24C25=CC=CC=C25C26=CC=CC=C26C27=CC=CC=C27C28=CC=CC=C28C29=CC=CC=C29C30=CC=CC=C30C31=CC=CC=C31C32=CC=CC=C32C33=CC=CC=C33C34=CC=CC=C34C35=CC=CC=C35C36=CC=CC=C36C37=CC=CC=C37C38=CC=CC=C38C39=CC=CC=C39C40=CC=CC=C40C41=CC=CC=C41C42=CC=CC=C42C43=CC=CC=C43C44=CC=CC=C44C45=CC=CC=C45
+9,3,"This molecule contains a Biphenyl structure consisting of two benzene rings, each with an amino group attached as anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)$.$CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)$isthecorrectSMILESrepresentationofthegivenmolecule.Therefore,"CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)
+
+The final answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$. $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$ is the correct SMILES representation of the given molecule. Therefore, the correct answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$. 
+
+The final answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$. 
+
+The final answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$. 
+
+The final answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C(C=C2)}$. 
+
+The final answer is $\boxed{CC(=N)1=CC=C(C=C1)CC(=N)2=CC=C"
+10,3,"This molecule has a Biphenyl made up of two benzene rings, each containing an amino anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC=CC=C1NC2=CC=CC=C2$.$C1=CC=CC=C1NC2=CC=CC=C2,"C1=CC=CC=C1NC2=CC=CC=C2
+
+The final answer is $\boxed{C1=CC=CC=C1NC2=CC=CC=C2}$. $\boxed{C1=CC=CC=C1NC2=CC=CC=C2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1NC2=CC=CC=C2}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+11,3,"This molecule is composed of a Biphenyl structure with two benzene rings, each containing an amino group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC=C(C=C1)N=C2=CC=C(C=C2).$C1=CC=C(C=C1)N=C2=CC=C(C=C2),"C1=CC=C(C=C1)N=C2=CC=C(C=C2)
+
+The final answer is C1=CC=C(C=C1)N=C2=CC=C(C=C2). $\boxed{C1=CC=C(C=C1)N=C2=CC=C(C=C2)}$ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |"
+12,3,"This molecule has a naphthalene core with methylthio groups attached to symmetric positions, acting as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,C1=CC=C2C(=S)N=C1C(=S)C2=C1$.$C1=CC=C2C(=S)N=C1C(=S)C2=C1,"C1=CC=C2C(=S)N=C1C(=S)C2=C1
+
+Note: The naphthalene core consists of two fused benzene rings.
+
+The final answer is $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$. $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$
+
+The final answer is: $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$}$
+The final answer is: $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$
+
+The final answer is: $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$
+
+The final answer is: $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$
+
+The final answer is: $\boxed{C1=CC=C2C(=S)N=C1C(=S)C2=C1}$
+
+The final answer is: $\"
+13,3,"This molecule features a naphthalene framework where methylthio groups bond to symmetric sites of the naphthalene rings, serving as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2$.$S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2,"S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2
+
+The final answer is $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2}$. $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2}$
+
+The final answer is: $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C2=CC=CC=C2}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+14,3,"This molecule uses a naphthalene skeleton with methylthio groups connecting to symmetric positions, functioning as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC2=C(N)C=C(N)C=CC2=C1$.$CC1=CC2=C(N)C=C(N)C=CC2=C1,"CC1=CC2=C(N)C=C(N)C=CC2=C1
+
+The final answer is $\boxed{CC1=CC2=C(N)C=C(N)C=CC2=C1}$. $\boxed{CC1=CC2=C(N)C=C(N)C=CC2=C1}$
+
+The final answer is: $\boxed{CC1=CC2=C(N)C=C(N)C=CC2=C1}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+15,3,"This molecule has a pyridine core with two sulfhydryl groups attached to the 2nd and 6th carbons, acting as anchor groups.",SC1=CC=CC(S)=N1,C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3$.$C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3,"C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3
+
+The final answer is $\boxed{C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3}$. $\boxed{C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3}$
+
+The final answer is: $\boxed{C1=CC=SC2=S(C)C=CC=SC3=S(C)C=CC1=CC3}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+16,3,"This molecule features a pyridine framework where sulfhydryl moieties bond to symmetric sites of the pyridine ring, serving as anchor groups.",SC1=CC=CC(S)=N1,C1=CC=CN1S,"Output the SMILES representation of the molecule.
+
+
+## Step 1: Identify the type of molecule described in the caption
+The caption describes a molecule with a pyridine framework and sulfhydryl moieties bonding to symmetric sites of the pyridine ring.
+
+## Step 2: Determine the SMILES representation of the pyridine framework
+The SMILES representation of a pyridine ring is C1=CC=CN1.
+
+## Step 3: Determine the SMILES representation of the sulfhydryl moieties
+The SMILES representation of a sulfhydryl group is S.
+
+## Step 4: Combine the SMILES representations of the pyridine framework and the sulfhydryl moieties
+Since the sulfhydryl moieties bond to symmetric sites of the pyridine ring, we need to add the sulfhydryl groups to the pyridine ring. The SMILES representation of the molecule is C1=CC=CN1S and C1=CC=CN1S.
+
+## Step 5: Simplify the SMILES representation
+Since the two sulfhydryl groups are identical, we can simplify the SMILES representation to C1=CC=CN1S.
+
+The final answer is: C1"
+17,3,"This molecule uses a pyridine skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=CC(S)=N1,C1=CC=SC(S1)C#CC2=CC=SC(S2)C#CC3=CC=SC(S3)C#CC4=CC=SC(S4)C#CC5=CC=SC(S5)C#CC6=CC=SC(S6)C#CC7=CC=SC(S7)C#CC8=CC=SC(S8)C#CC9=CC=SC(S9)C#CC10=CC=SC(S10)C#CC11=CC=SC(S11)C#CC12=CC=SC(S12)C#CC13=CC=SC(S13)C#CC14=CC=SC(S14)C#CC15=CC=SC(S15)C#CC16=CC=SC(S16)C#CC17=CC=SC(S17)C#CC18=CC=SC(S18)C#CC19=CC=SC(S19)C#CC20=CC=SC(S20)C#CC21=CC=SC(S21)C#CC22=CC=SC(S22)C#CC23=CC=SC(S23)C#CC24=,C1=CC=SC(S1)C#CC2=CC=SC(S2)C#CC3=CC=SC(S3)C#CC4=CC=SC(S4)C#CC5=CC=SC(S5)C#CC6=CC=SC(S6)C#CC7=CC=SC(S7)C#CC8=CC=SC(S8)C#CC9=CC=SC(S9)C#CC10=CC=SC(S10)C#CC11=CC=SC(S11)C#CC12=CC=SC(S12)C#CC13=CC=SC(S13)C#CC14=CC=SC(S14)C#CC15=CC=SC(S15)C#CC16=CC=SC(S16)C#CC17=CC=SC(S17)C#CC18=CC=SC(S18)C#CC19=CC=SC(S19)C#CC20=CC=SC(S20)C#CC21=CC=SC(S21)C#CC22=CC=SC(S22)C#CC23=CC=SC(S23)C#CC24=
+18,3,"This molecule has a pyridine core with S-Methyl thioacetate groups attached to the 3rd and 5th carbons, acting as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)$.$C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1),"C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)
+
+The final answer is $\boxed{C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)}$. $\boxed{C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)}$.
+
+The final answer is: $\boxed{C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)}$}$\boxed{C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C=C1)}$}$\boxed{C1=CC=SC(C#CC(=O)S(C#N)C=C1)C=C(C#CC(=O)S(C#N)C"
+19,3,"This molecule features a pyridine framework where two S-Methyl thioacetate groups bond to symmetric sites of the pyridine ring, serving as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=O)SC1=CC=NC(C=C1)SC(=O)C$.$CC(=O)SC1=CC=NC(C=C1)SC(=O)C,"CC(=O)SC1=CC=NC(C=C1)SC(=O)C
+
+The final answer is $\boxed{CC(=O)SC1=CC=NC(C=C1)SC(=O)C}$. $\boxed{CC(=O)SC1=CC=NC(C=C1)SC(=O)C}$
+
+
+The final answer is: $\boxed{CC(=O)SC1=CC=NC(C=C1)SC(=O)C}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+20,3,"This molecule uses a pyridine skeleton with S-Methyl thioacetate groups connecting to symmetric positions, functioning as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,S(=O)(=O)Nc1ccc(cc1)S(=O)(=O)C(=O)c2ccc(cc2)S(=O)(=O)C(=O)c3ccc(cc3)S(=O)(=O)C(=O)c4ccc(cc4)S(=O)(=O)C(=O)c5ccc(cc5)S(=O)(=O)C(=O)c6ccc(cc6)S(=O)(=O)C(=O)c7ccc(cc7)S(=O)(=O)C(=O)c8ccc(cc8)S(=O)(=O)C(=O)c9ccc(cc9)S(=O)(=O)C(=O)c10ccc(cc10)S(=O)(=O)C(=O)c11ccc(cc11)S(=O)(=O)C(=O)c12ccc(cc12)S(=O)(=O)C(=O)c13ccc(cc13)S(=O)(=O)C(=O)c14ccc(cc14)S(=O)(=O)C(=O)c15ccc(cc15)S(=O)(=O)C(=O)c16ccc(cc16)S(=,S(=O)(=O)Nc1ccc(cc1)S(=O)(=O)C(=O)c2ccc(cc2)S(=O)(=O)C(=O)c3ccc(cc3)S(=O)(=O)C(=O)c4ccc(cc4)S(=O)(=O)C(=O)c5ccc(cc5)S(=O)(=O)C(=O)c6ccc(cc6)S(=O)(=O)C(=O)c7ccc(cc7)S(=O)(=O)C(=O)c8ccc(cc8)S(=O)(=O)C(=O)c9ccc(cc9)S(=O)(=O)C(=O)c10ccc(cc10)S(=O)(=O)C(=O)c11ccc(cc11)S(=O)(=O)C(=O)c12ccc(cc12)S(=O)(=O)C(=O)c13ccc(cc13)S(=O)(=O)C(=O)c14ccc(cc14)S(=O)(=O)C(=O)c15ccc(cc15)S(=O)(=O)C(=O)c16ccc(cc16)S(=
+21,3,"This molecule has a pyrene core with methylamino groups attached to symmetric positions, acting as anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,C1=CC=CC=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N,C1=CC=CC=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N)C=C(C#N
+22,3,This molecule features a pyrene framework where Methylamino anchor groups bond to symmetric sites of the pyrene rings.,CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,N(C)C1=CC2=CC3=CC4=CC5=CC6=CC7=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N,N(C)C1=CC2=CC3=CC4=CC5=CC6=CC7=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N(C)C)C=C(N
+23,3,"This molecule uses a pyrene skeleton with methylamino groups connecting to symmetric positions, functioning as potential anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6$.$CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6,"CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6
+
+The final answer is $\boxed{CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6}$. $\boxed{CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6}$
+
+The final answer is: $\boxed{CC1=CC=CC=C2=CC=CC=C3=CC=CC=C4=CC=CC=C5=CC=CC=C6}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+24,3,"This molecule consists of a benzene ring as the backbone, with cyano groups attached to two opposite carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,C1=CC=NC2=C.I,"C1=CC=NC2=C
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1=CC=NC2=C. I'll be happy to help you with anything else. Feel free to ask. 
+
+The final answer is C1="
+25,3,"This molecule has a benzene ring as the core structure, featuring cyano groups bonded to two distinct ring carbons as anchor groups to access electrodes.",C1=CC(=CC=C1C#N)C#N,C#N1=CC=C(C#N)C=C1$.$C#N1=CC=C(C#N)C=C1,"C#N1=CC=C(C#N)C=C1
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. $\boxed{C#N1=CC=C(C#N)C=C1}$.
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{C#N1=CC=C(C#N)C=C1}$. 
+
+The final answer is $\boxed{"
+26,3,"This molecule contains a benzene ring framework, with cyano groups positioned on two separate carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,C1=CC=C(C#N)C=C(C#N)C=C1$.$C1=CC=C(C#N)C=C(C#N)C=C1,"C1=CC=C(C#N)C=C(C#N)C=C1
+
+The final answer is $\boxed{C1=CC=C(C#N)C=C(C#N)C=C1}$. $\boxed{C1=CC=C(C#N)C=C(C#N)C=C1}$
+
+The final answer is: $\boxed{C1=CC=C(C#N)C=C(C#N)C=C1}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+27,3,This molecule consists of a naphthalene backbone with iodine atoms attached to each benzene ring as anchor groups.,IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2).$C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)$$C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)$$C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)$$C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)$$\boxed,"C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)
+
+The final answer is C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2). $\boxed{C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)}$ $\boxed{C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)}$ $\boxed{C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)}$ $\boxed{C1=CC2=C(C(=I)C(=I)C=C1)C(=I)C2=C(C(=I)C(=I)C=C2)}$ $\boxed{C1=CC2=C(C(=I)C"
+28,3,"This molecule has a naphthalene core structure, featuring iodine atoms bonded to both benzene rings as anchor groups.",IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I,"C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)I
+
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C"
+29,3,"This molecule contains a naphthalene framework, where iodine atoms are positioned on the two benzene rings.",IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC=CC=C(C2=CC=CC=C1)I,"C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC=CC=C(C2=CC=CC=C1)I
+
+C1=CC"
+30,3,"This molecule uses a benzene skeleton with thiophene groups connecting to the para carbons, functioning as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=CS(C=C1)C2=CC=CS(C=C2)$.$C1=CC=CS(C=C1)C2=CC=CS(C=C2),"C1=CC=CS(C=C1)C2=CC=CS(C=C2)
+
+The final answer is $\boxed{C1=CC=CS(C=C1)C2=CC=CS(C=C2)}$. $\boxed{C1=CC=CS(C=C1)C2=CC=CS(C=C2)}$.
+
+The final answer is: $\boxed{C1=CC=CS(C=C1)C2=CC=CS(C=C2)}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+31,3,"This molecule has a benzene core with two thiophene groups attached to symmetric para positions, acting as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)$.$S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1),"S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)
+
+The final answer is $\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$. $\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$.
+
+
+The final answer is: $\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$}$\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$}$\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$}$\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$}$\boxed{S(=O)(C1=CC=CC=C1)S(=O)(C1=CC=CC=C1)}$}$\boxed{S(="
+32,3,"This molecule features a benzene framework where thiophene rings bond to opposite positions of the benzene core, serving as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1$.$C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1,"C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1
+
+The final answer is $\boxed{C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1}$. $\boxed{C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1}$
+
+
+The final answer is: $\boxed{C1=CC=CC=C1S(=O)(=O)S(=O)(=O)C1=CC=CC=C1}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+33,3,This molecule contains two thiophene groups that are attached to serve as anchor groups.,C1=CSC=C1C2=CSC=C2,S(=O)(C1=CC=CC=C1)S(=O)(C2=CC=CC=C2)S(=O)(C3=CC=CC=C3)S(=O)(C4=CC=CC=C4)S(=O)(C5=CC=CC=C5)S(=O)(C6=CC=CC=C6)S(=O)(C7=CC=CC=C7)S(=O)(C8=CC=CC=C8)S(=O)(C9=CC=CC=C9)S(=O)(C10=CC=CC=C10)S(=O)(C11=CC=CC=C11)S(=O)(C12=CC=CC=C12)S(=O)(C13=CC=CC=C13)S(=O)(C14=CC=CC=C14)S(=O)(C15=CC=CC=C15)S(=O)(C16=CC=CC=C16)S(=O)(C17=CC=CC=C17)S(=O)(C18=CC=CC=C18)S(=O)(C19=CC=CC=C19)S(=O)(C20=CC=,S(=O)(C1=CC=CC=C1)S(=O)(C2=CC=CC=C2)S(=O)(C3=CC=CC=C3)S(=O)(C4=CC=CC=C4)S(=O)(C5=CC=CC=C5)S(=O)(C6=CC=CC=C6)S(=O)(C7=CC=CC=C7)S(=O)(C8=CC=CC=C8)S(=O)(C9=CC=CC=C9)S(=O)(C10=CC=CC=C10)S(=O)(C11=CC=CC=C11)S(=O)(C12=CC=CC=C12)S(=O)(C13=CC=CC=C13)S(=O)(C14=CC=CC=C14)S(=O)(C15=CC=CC=C15)S(=O)(C16=CC=CC=C16)S(=O)(C17=CC=CC=C17)S(=O)(C18=CC=CC=C18)S(=O)(C19=CC=CC=C19)S(=O)(C20=CC=
+34,3,This molecule has two thiophene groups functioning as anchor groups.,C1=CSC=C1C2=CSC=C2,S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(,S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(=O)S(=O)(
+35,3,This molecule features two thiophene groups that act as anchor groups.,C1=CSC=C1C2=CSC=C2,S1=CC=C(C=C1)S2=CC=C(C=C2),"S1=CC=C(C=C1)S2=CC=C(C=C2)
+
+
+## Step 1: Understand the caption and the task
+The caption describes a molecule with two thiophene groups acting as anchor groups. The task is to predict the SMILES representation of this molecule.
+
+## Step 2: Break down the caption into components
+The caption mentions two thiophene groups, which can be represented as S1=CC=C(C=C1) and S2=CC=C(C=C2) in SMILES notation.
+
+## Step 3: Combine the components to form the final SMILES representation
+To form the final SMILES representation, we need to combine the two thiophene groups with a single covalent bond between them.
+
+## Step 4: Write the final SMILES representation
+The final SMILES representation of the molecule is S1=CC=C(C=C1)S2=CC=C(C=C2).
+
+The final answer is: S1=CC=C(C=C1)S2=CC=C(C=C2)"
+36,3,"This molecule features a biphenyl structure with four amino groups attached to symmetric positions, acting as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N.$C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N,"C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N
+
+The final answer is C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N. $\boxed{C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N}$
+
+
+The final answer is: $\boxed{C1=CC=CC=C(C(=O)N)C(=O)N)C1=CC=CC=C(C(=O)N)C(=O)N}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+37,3,"This molecule uses a biphenyl framework where four amino moieties bond to the benzene rings, functioning as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)$.$C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N),"C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)
+
+The final answer is $\boxed{C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)}$. $\boxed{C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)}$.
+
+The final answer is: $\boxed{C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)}$}$\boxed{C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(=CC=C1N)C2=CC(=CC=C2N)}$}$\boxed{C1=CC(=CC=C1N)C2=CC(=CC=C2N)C1=CC(="
+38,3,This molecule has a biphenyl core with four amino groups as anchor groups.,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC2=C(C=C1)N=C3C=C(C=CC3=N2)SC,"C1=CC2=C(C=C1)N=C3C=C(C=CC3=N2)SC
+
+## Step 1: Analyze the caption
+The caption describes a molecule with a biphenyl core and four amino groups as anchor groups.
+
+## Step 2: Determine the SMILES representation of the biphenyl core
+The biphenyl core consists of two benzene rings connected by a single bond. The SMILES representation of benzene is C1=CC=CC=C1. Therefore, the SMILES representation of the biphenyl core is C1=CC2=C(C=C1).
+
+## Step 3: Determine the SMILES representation of the amino groups
+The SMILES representation of an amino group is N. Since there are four amino groups, the SMILES representation is N=C3C=C(C=CC3=N2).
+
+## Step 4: Combine the SMILES representations of the biphenyl core and the amino groups
+The SMILES representation of the molecule is the combination of the SMILES representations of the biphenyl core and the amino groups. Therefore, the SMILES representation of the molecule is C1=CC2=C(C=C1)N=C3C=C(C=CC3=N2)."
+39,3,"This molecule has a furan core with two pyridyl groups attached to symmetric positions, acting as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,C1=CC=CC=C1,"C1=CC=CC=C1
+
+The final answer is $\boxed{C1=CC=CC=C1}$
+
+Explanation: The caption describes a molecule with a furan core and two pyridyl groups attached to symmetric positions. The SMILES representation of this molecule is C1=CC=CC=C1, where the numbers represent the positions of the pyridyl groups on the furan core.
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+Hence, the correct answer is C1=CC=CC=C1. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC=CC=C1}$. 
+
+The final answer is $\boxed{C1=CC"
+40,3,This molecule uses a furan framework where two pyridyl groups are attached to serve as anchor groups.,C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,C1=CC=O-C1=CC=NC=C1,"C1=CC=NC=C1
+
+
+## Step 1: Understand the caption
+The caption describes a molecule with a furan framework and two pyridyl groups attached as anchor groups.
+
+## Step 2: Identify the backbone of the molecule
+The backbone of the molecule is a furan framework.
+
+## Step 3: Identify the anchor groups
+The anchor groups are two pyridyl groups attached to the molecule.
+
+## Step 4: Determine the SMILES representation of the backbone
+The SMILES representation of a furan framework is C1=CC=O.
+
+## Step 5: Determine the SMILES representation of the anchor groups
+The SMILES representation of a pyridyl group is C1=CC=NC=C1.
+
+## Step 6: Combine the SMILES representations of the backbone and anchor groups
+The SMILES representation of the molecule is the combination of the SMILES representations of the backbone and anchor groups.
+
+## Step 7: Write the final SMILES representation
+The final SMILES representation of the molecule is C1=CC=O-C1=CC=NC=C1.
+
+The final answer is: C1=CC=O-C1=CC=NC=C1."
+41,3,"This molecule features a furan core anchored by pyridyl rings, functioning as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,C1=CC2=C(C=CC(=C2)C#N)C=C1$.$C1=CC2=C(C=CC(=C2)C#N)C=C1,"C1=CC2=C(C=CC(=C2)C#N)C=C1
+
+The final answer is $\boxed{C1=CC2=C(C=CC(=C2)C#N)C=C1}$. $\boxed{C1=CC2=C(C=CC(=C2)C#N)C=C1}$
+
+The final answer is: $\boxed{C1=CC2=C(C=CC(=C2)C#N)C=C1}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+42,3,This molecule contains a naphthalene core with S-methyl thioacetate anchor groups.,CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,S(=O)(C)S(=O)(C)C1=CC=C(C2=CC=CC=C2)C(=O)S(=O)(C)C,"S(=O)(C)S(=O)(C)C1=CC=C(C2=CC=CC=C2)C(=O)S(=O)(C)C
+
+The final answer is $\boxed{S(=O)(C)S(=O)(C)C1=CC=C(C2=CC=CC=C2)C(=O)S(=O)(C)C}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+43,3,"This molecule uses a naphthalene skeleton where S-methyl thioacetate moieties bond to symmetric positions of the naphthalene ring, functioning as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1$.$C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1,"C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1
+
+The final answer is $\boxed{C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1}$. $\boxed{C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1}$
+
+The final answer is: $\boxed{C1=CC2=C(C#CC3=CC=C(C#CC4=CC=C(C#CC5=CC=C(C#CC6=CC=C(SC(C)=O)C=C6)C=C5)C=C4)C=C3)C=C1}$"
+44,3,"This molecule features a naphthalene framework with two S-methyl thioacetate groups attached to the aromatic core, acting as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,S(=O)(C)C1=CC=CC=C1S(=O)(C)C$.$S(=O)(C)C1=CC=CC=C1S(=O)(C)C,"S(=O)(C)C1=CC=CC=C1S(=O)(C)C
+
+The final answer is $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C}$. $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C}$.
+
+The final answer is: $\boxed{S(=O)(C)C1=CC=CC=C1S(=O)(C)C}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+45,3,"This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,C1=CC=C(C=C1)SC2=CC=C(C=C2)SC3=CC=C(C=C3)SC,"C1=CC=C(C=C1)SC2=CC=C(C=C2)SC3=CC=C(C=C3)SC
+
+## Step 1: Understand the caption
+The caption describes a molecule with a fluoren-9-one core and methylthio groups attached to each benzene ring, acting as anchor groups.
+
+## Step 2: Identify the fluoren-9-one core
+The fluoren-9-one core consists of two benzene rings linked by a carbon-carbon double bond.
+
+## Step 3: Identify the methylthio groups
+The methylthio groups are attached to each benzene ring, acting as anchor groups.
+
+## Step 4: Construct the SMILES representation
+The SMILES representation of the fluoren-9-one core is C1=CC=C(C=C1). The methylthio groups are represented as SC.
+
+## Step 5: Combine the fluoren-9-one core and methylthio groups
+The final SMILES representation is the combination of the fluoren-9-one core and the methylthio groups, which is C1=CC=C(C=C1)SC2=CC=C(C=C2)SC3=CC=C(C=C3)SC.
+
+The final answer is: C"
+46,3,"This molecule features a fluoren-9-one core where methylthio moieties bond to the benzene rings, functioning as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,S(=O)(=O)C1=CC=CC=C1S(=,"S(=O)(=O)C1=CC=CC=C1S(=O)(=O)
+
+
+## Step 1: Identify the core of the molecule.
+The core of the molecule is fluoren-9-one.
+
+## Step 2: Identify the anchor groups.
+The anchor groups are methylthio moieties that bond to the benzene rings.
+
+## Step 3: Determine the positions of the anchor groups on the core.
+The anchor groups are attached to the benzene rings of the fluoren-9-one core.
+
+## Step 4: Write the SMILES representation of the core.
+The SMILES representation of the fluoren-9-one core is S(=O)(=O)C1=CC=CC=C1.
+
+## Step 5: Add the anchor groups to the SMILES representation of the core.
+The SMILES representation of the anchor groups is S(=O)(=O).
+
+## Step 6: Combine the SMILES representation of the core and the anchor groups.
+The final SMILES representation of the molecule is S(=O)(=O)C1=CC=CC=C1S(=O)(=O).
+
+
+The final answer is: S(=O)(=O)C1=CC=CC=C1S(="
+47,3,"This molecule contains a fluoren-9-one core, each benzene ring linked to a methylthio group serving as anchor group.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,C1=CC2=C(C=C1C#N)SC3=C2C=CC(=C3)C#N,"C1=CC2=C(C=C1C#N)SC3=C2C=CC(=C3)C#N
+
+The final answer is: $\boxed{C1=CC2=C(C=C1C#N)SC3=C2C=CC(=C3)C#N}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+48,3,"This molecule contains a thiophene core, with carboxyl anchor groups attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C$.$S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C,"S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C
+
+The final answer is $\boxed{S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C}$. $\boxed{S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C}$
+
+
+The final answer is: $\boxed{S(=O)(=O)Nc1ccc(cc1)SC(=O)(=O)C}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+49,3,"This molecule uses a thiophene skeleton with carboxyl groups connecting to its 1st and 4th carbons, and these groups function as anchor groups.",C1=C(SC(=C1)C(=O)O)C(=O)O,CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4$.$CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4,"CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4
+
+The final answer is $\boxed{CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4}$. $\boxed{CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4}$
+
+
+The final answer is: $\boxed{CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4}$
+
+
+The final answer is: $\boxed{CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4}$
+
+
+The final answer is: $\boxed{CS(=O)(=O)1S(=O)(=O)1SC(=O)(=O)4S(=O)(=O)4}$
+
+
+The final answer is: $\boxed{CS(=O)(=O)1S(=O"
+50,3,"This molecule has a thiophene core with carboxyl groups, where carboxyl groups are attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,S(=O)(=O)C1=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1$.$S(=O)(=O)C1=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1,"S(=O)(=O)C1=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1
+
+The final answer is $\boxed{S(=O)(=O)C1=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1}$. $\boxed{S(=O)(=O)C1=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+51,3,"This molecule is composed of a bicyclic structure with two benzene rings connected by a furan, and each benzene ring is attached to an amino group serving as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,Nc1ccc(cc1)Nc2ccc(cc2)O$.$Nc1ccc(cc1)Nc2ccc(cc2)O,"Nc1ccc(cc1)Nc2ccc(cc2)O
+
+The final answer is $\boxed{Nc1ccc(cc1)Nc2ccc(cc2)O}$. $\boxed{Nc1ccc(cc1)Nc2ccc(cc2)O}$
+
+
+The final answer is: $\boxed{Nc1ccc(cc1)Nc2ccc(cc2)O}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+52,3,"This molecule has a fused ring system made up of two benzene rings linked by a furan, with amino groups attached to each benzene ring acting as anchor groups.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N$.$C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N,"C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N
+
+The final answer is $\boxed{C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N}$. $\boxed{C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N}$
+
+The final answer is: $\boxed{C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+53,3,"This molecule contains a bicyclic structure consisting of two benzene rings connected by a furan, with each benzene ring attached to an amino group as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F$.$CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F,"CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F
+
+The final answer is $\boxed{CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F}$. $\boxed{CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F}$
+
+
+The final answer is: $\boxed{CC(=O)Nc1ccc(cc1)C(=O)Nc2ccc(cc2)F}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+54,3,"This molecule contains a phenanthrene core, with two amino groups attached to the terminal benzene rings as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC=CC=C(C2=CC=CC=C2)NC3=CC=CC=C(C4=CC=CC=C4)N$.$C1=CC=CC=C(C2=CC=CC=C2)NC3=CC=CC=C(C4=CC=CC=C4)N,"C1=CC=CC=C(C2=CC=CC=C2)NC3=CC=CC=C(C4=CC=CC=C4)N
+
+The final answer is $\boxed{C1=CC=CC=C(C2=CC=CC=C2)NC3=CC=CC=C(C4=CC=CC=C4)N}$. $\boxed{C1=CC=CC=C(C2=CC=CC=C2)NC3=CC=CC=C(C4=CC=CC=C4)N}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$}$"
+55,3,"This molecule has a phenanthrene backbone, where amino groups are positioned on the terminal benzene rings, serving as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1,"C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1
+
+Please provide the SMILES representation of the molecule.
+
+The final answer is $\boxed{C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1}$.
+
+Explanation: The molecule has a phenanthrene backbone, which consists of three fused benzene rings. The amino groups are positioned on the terminal benzene rings, serving as anchor groups. The SMILES representation of the molecule is C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1, where the numbers 1, 2, and 3 represent the positions of the benzene rings in the phenanthrene backbone.
+
+The final answer is $\boxed{C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1}$. 
+
+The final answer is: $\boxed{C1=CC=C(C=C2C=C3C=C(SC)N)C=CC3=CC2=C1}$"
+56,3,"This molecule uses a phenanthrene skeleton with two amino groups connecting to the terminal benzene rings, functioning as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC2=C3C=C(N)C=C(N)C=C2C=C1,"C1=CC2=C3C=C(N)C=C(N)C=C2C=C1
+
+
+## Step 1: Analyze the input caption
+The input caption describes a molecule with a phenanthrene skeleton and two amino groups connecting to the terminal benzene rings, functioning as anchor groups.
+
+## Step 2: Identify the key components of the molecule
+The key components of the molecule are the phenanthrene skeleton and the two amino groups.
+
+## Step 3: Determine the SMILES representation of the phenanthrene skeleton
+The SMILES representation of a phenanthrene skeleton is C1=CC2=C3C=C(N)C=C(N)C=C2C=C1.
+
+## Step 4: Determine the SMILES representation of the amino groups
+The SMILES representation of an amino group is N.
+
+## Step 5: Combine the SMILES representations of the phenanthrene skeleton and the amino groups
+The SMILES representation of the molecule is the combination of the SMILES representations of the phenanthrene skeleton and the amino groups.
+
+## Step 6: Write the final SMILES representation
+The final SMILES representation of the molecule is C1=CC2=C3C=C(N)C=C(N)C=C2C"
+57,3,"This molecule has two pyridine rings linked by a carbon atom, with each pyridine ring acting as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC(=CC=C1N)C2=CC(=CC=C2N)C3=CC(=CC=C3N)C4=CC(=CC=C4N)C5=CC(=CC=C5N)C6=CC(=CC=C6N)C7=CC(=CC=C7N)C8=CC(=CC=C8N)C9=CC(=CC=C9N)C10=CC(=CC=C10N)C11=CC(=CC=C11N)C12=CC(=CC=C12N)C13=CC(=CC=C13N)C14=CC(=CC=C14N)C15=CC(=CC=C15N)C16=CC(=CC=C16N)C17=CC(=CC=C17N)C18=CC(=CC=C18N)C19=CC(=CC=C19N)C20=CC(=CC=C20N)C21=CC(=CC=C21N)C22=CC(=CC=C22N)C23=CC(=CC=C23N)C24=CC(=CC=C24N)C25=CC(=CC=C25N)C26=CC(=CC,C1=CC(=CC=C1N)C2=CC(=CC=C2N)C3=CC(=CC=C3N)C4=CC(=CC=C4N)C5=CC(=CC=C5N)C6=CC(=CC=C6N)C7=CC(=CC=C7N)C8=CC(=CC=C8N)C9=CC(=CC=C9N)C10=CC(=CC=C10N)C11=CC(=CC=C11N)C12=CC(=CC=C12N)C13=CC(=CC=C13N)C14=CC(=CC=C14N)C15=CC(=CC=C15N)C16=CC(=CC=C16N)C17=CC(=CC=C17N)C18=CC(=CC=C18N)C19=CC(=CC=C19N)C20=CC(=CC=C20N)C21=CC(=CC=C21N)C22=CC(=CC=C22N)C23=CC(=CC=C23N)C24=CC(=CC=C24N)C25=CC(=CC=C25N)C26=CC(=CC
+58,3,"This molecule features two pyridine rings connected by a carbon atom, where each pyridine ring serves as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC=C(C=C,"C1=CC=C(C=C1)C2=CC=C(C=C2)N
+
+
+## Step 1: Analyze the caption to understand the structure of the molecule.
+The caption describes a molecule with two pyridine rings connected by a carbon atom, where each pyridine ring serves as an anchor group.
+
+## Step 2: Break down the molecule into its constituent parts.
+The molecule consists of two pyridine rings (C1 and C2) connected by a carbon atom, and each pyridine ring serves as an anchor group.
+
+## Step 3: Determine the SMILES representation for each pyridine ring.
+The SMILES representation for a pyridine ring is C1=CC=C(C=C1).
+
+## Step 4: Combine the SMILES representations of the two pyridine rings with the connecting carbon atom.
+The SMILES representation for the connecting carbon atom is C=C.
+
+## Step 5: Combine the SMILES representations of the two pyridine rings and the connecting carbon atom to form the final SMILES representation.
+The final SMILES representation is C1=CC=C(C=C1)C=C2=CC=C(C=C2)N.
+
+The final answer is: C1=CC=C(C=C"
+59,3,"This molecule uses two pyridine rings as the core, linked by a carbon atom, functioning as anchor groups.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC=NC(C=C1)C2=CC=NC(C=C2)$.$C1=CC=NC(C=C1)C2=CC=NC(C=C2),"C1=CC=NC(C=C1)C2=CC=NC(C=C2)
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$.
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1=CC=NC(C=C1)C2=CC=NC(C=C2)}$. 
+
+The final answer is $\boxed{C1"

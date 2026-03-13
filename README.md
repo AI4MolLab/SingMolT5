@@ -122,7 +122,7 @@ This repository is licensed under the [GNU General Public License v3.0 (GPL-3.0)
 
 ## Acknowledgements
 - This work builds on the open-source MolT5/T5 models from Hugging Face and the RDKit toolkit for molecular processing.
-- We thank the contributors of prior single-molecule research, whose work enabled the construction of the instruction-tuning dataset in this study.
+- We thank the contributors of prior single-molecule studies, whose work enabled the construction of the instruction-tuning dataset in this study.
 
 ## Author
 - Yiheng Zhao (Email: a690209967@163.com)

@@ -1,0 +1,1627 @@
+index,k_shot,caption,true_smiles,pred_smiles,raw_text
+0,10,This molecule has two pyridine cores linked by a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)N=NC3=CC=C(C=C3)S,"S)N=NC3=CC=C(C=C3)S
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a core structure composed of two benzene rings linked via an azo bond, and contains sulfhydryl groups on both benzene rings, which act as anchor groups.
+Output:
+C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)N=NC3=CC=C(C=C3)S
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a core structure composed of two benzene rings linked via an azo bond, and contains sulfhydryl groups on both benzene rings, which act as anchor groups.
+Output:
+C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)N=NC3=CC=C(C=C3)S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a core structure composed of two benzene rings linked via an azo bond, and contains sulfhydryl groups on both benzene"
+1,10,This molecule uses a diacetylene chain to link two pyridine rings.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C#CC1=CC=C(C=C1)C#C2=CC=C(C=C2),":
+CSC1=CC=C(C=C1)C2=CC=CS2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, with two ethynyl groups attached to opposite positions of the ring, and these groups act as anchor groups.
+Output:
+C#CC1=CC=C(C=C1)C#C2=CC=C(C=C2)
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, with one methylthio group and one ethynyl group attached to opposite positions of the ring, and these groups act as anchor groups.
+Output:
+CSC1=CC=C(C=C1)C#C2=CC=C(C=C2)
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, with one iodine atom and one ethynyl group attached to opposite positions of the ring, and these groups act as anchor groups.
+Output:
+IC1=CC=C(C=C1)C#C"
+2,10,This molecule connects two pyridine rings via a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3,"#N
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings linked by a naphthalene ring.
+Output:
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings linked by an anthracene ring.
+Output:
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings linked by a pyrene ring.
+Output:
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)C5=CC=C(C=C5)
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed"
+3,10,This molecule consists of a diphenylacetylene backbone with carboxyl groups attached to each benzene ring.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC(=O)SC,"of a molecule, predict the S-Methyl thioacetate SMILES representation.
+Input:
+Anchoring group, consisting of S-Methyl thioacetate.
+Output:
+CC(=O)SC
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a thiophene framework linked by carbon-carbon triple bond to pyridine rings, and these pyridine rings serve as anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a biphenyl framework with two benzene rings joined, and has S-Methyl thioacetate moieties on each ring serving as anchor groups.
+Output:
+CC(=O)SC1=CC=C(C=C1)C2=CC=C(C=C2)SC(=O)C
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has diphenylacetylene core structure and contains S-Methyl thioacetate groups serving as anchor"
+4,10,This molecule features a diphenylacetylene backbone featuring carboxyl groups bonded to both benzene rings.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,NC1=CC=CC(N)=N1,"=CC=C2C=C3C=CC=CC3=CC2=C1
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a pyridine ring framework, with two amino functional groups positioned at the 2nd and 6th position of the pyridine ring, and these amino groups serve as anchor groups.
+Output:
+NC1=CC=CC(N)=N1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of four carbon atoms with methylthio groups at both terminal ends acting as anchoring moieties.
+Output:
+CSCCCCSC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core with amino groups attached to symmetric positions, acting as potential anchor groups.
+Output:
+NC1=CC=C2C=C(N)C=CC2=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is anthracene, a polycyclic aromatic hydrocarbon consisting of three fused benzene"
+5,10,"This molecule contains a diphenylacetylene framework, where carboxyl groups are positioned on the two benzene rings linked by an ethynyl group, and both groups function as anchor groups.",C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3,"molecule, predict the SMILES representation.
+Input:
+This molecule features a thiophene framework linked by carbon-carbon triple bond to pyridine rings, and these pyridine rings serve as anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two pyridine rings linked by three benzene rings in a chain, and the nitrogen atoms of the pyridine rings serve as potential anchoring groups.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C3=CC=NC=C3)C4=CC=C(C=C4)C5=CC=NC=C5
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a benzene skeleton with carboxyl groups connecting, and carboxyl groups function as anchor groups.
+Output:
+C1=CC(=CC=C1C(=O)O)C(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule"
+6,10,"This molecule has an anthracene core with sulfhydryl groups  attached, acting as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O,"CC=CC2=C1N=CC(=C2)C(=O)O
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene skeleton with carboxyl groups attached to both benzene rings, and these groups act as anchor groups.
+Output:
+C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with carboxyl groups attached to both benzene rings, and these groups act as anchor groups.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is anthracene.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C34)C=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES"
+7,10,"This molecule features an anthracene framework where sulfhydryl groups bond to symmetric sites, serving as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,BrC1=CC=C(C=C1)C2=CC=C(Br)C=C2,"rings of the backbone, with these moieties serving as anchor groups.
+Output:
+BrC1=CC=C(C=C1)C2=CC=C(Br)C=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core structure, featuring chloro groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups.
+Output:
+ClC1=CC=C(C=C1)C2=CC=C(Cl)C=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core structure, featuring hydroxyl groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups.
+Output:
+OC1=CC=C(C=C1)C2=CC=C(O)C=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core structure, featuring amino groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups.
+Output:
+NC1=CC=C(C"
+8,10,"This molecule uses an anthracene skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)S,"=CN=CC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a core structure composed of two benzene rings linked via an azo bond, and contains sulfhydryl groups on both benzene rings, which act as anchor groups.
+Output:
+C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)S
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of four fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a phenazine core with methylthio groups as anchor groups.
+Output:
+CSC1=CC2=C(C=C1)N=C3C=C(C=CC3=N2)SC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a bip"
+9,10,"This molecule contains a Biphenyl structure consisting of two benzene rings, each with an amino group attached as anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,CN(C)C1=CC2=C(C=CC(=C2)C=C1)C(=O)N,"ino groups as anchor groups.
+Output:
+CN(C)C1=CC2=C(C=CC(=C2)C=C1)C(=O)N
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a backbone consisting of eight carbon atoms and features carboxyl anchoring groups attached at each end of the chain.
+Output:
+CC(C(=O)O)CC(C(=O)O)CC(C(=O)O)CC(C(=O)O)CC(C(=O)O)CC(C(=O)O)CC(C(=O)O)
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a Biphenyl structure consisting of two benzene rings, each with a nitro group attached as anchor group.
+Output:
+C1=CC(=CC=C1[N+](=O)[O-])C2=CC=C(C=C2)[N+](=O)[O-]
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core with nitro groups attached to symmetric positions, acting"
+10,10,"This molecule has a Biphenyl made up of two benzene rings, each containing an amino anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,C1=CC2=C(C=CC3=C2C=CC(=C3)C(=O)O)C=C1C(=O)O,"(C=C1)S(=O)(=O)C
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core with carboxyl groups as anchor groups attached to the 2nd and 7th carbons of the naphthalene skeleton.
+Output:
+C1=CC2=C(C=CC3=C2C=CC(=C3)C(=O)O)C=C1C(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a phenanthrene core consisting of three benzene rings, with two carboxyl groups attached to the terminal benzene as anchor groups.
+Output:
+C1=CC2=C(C=CC3=C2C=CC(=C3)C(=O)O)C=C1C(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a pyrene core with methylthio groups as anchor groups attached to the 1st and 16th carbons of the pyrene skeleton.
+Output:
+CSC1=CC"
+11,10,"This molecule is composed of a Biphenyl structure with two benzene rings, each containing an amino group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,CC(C(=O)O)CC(=O)O,"a carboxyl group.
+Output:
+CC(C(=O)O)CC(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene framework, where chlorine atoms are positioned on the two benzene rings.
+Output:
+ClC1=CC2=C(C=C1)C=C(C=C2)Cl
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a phenanthrene backbone made up of two three benzene rings, where hydroxyl groups are positioned on the terminal benzene rings.
+Output:
+C1=CC2=C(C=CC3=C2C=CC(=C3)C=C1)O
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a benzene skeleton with hydroxyl groups connecting to the 1st and 4th carbons of the benzene ring as anchor groups.
+Output:
+OC1=CC=C(O)C=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a"
+12,10,"This molecule has a naphthalene core with methylthio groups attached to symmetric positions, acting as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,C1=CN=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1,"(C(C(C(C(C(C(CS)C)C)C)C)C)C)C)S
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a pyridine core structure, featuring benzene rings linked to the methylthio moieties on each benzene ring, with these moieties serving as anchor groups to access electrodes.
+Output:
+C1=CN=CC=C(C2=CC=C(C3=CC=C(SC)C=C3)S2)C=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a naphthalene framework where Cyano groups bond to symmetric sites of the naphthalene rings, serving as anchor groups.
+Output:
+C1=CC2=C(C=CC(=C2)C#N)C=C1C#N
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is benzene.
+Output:
+C1=CC=CC=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule"
+13,10,"This molecule features a naphthalene framework where methylthio groups bond to symmetric sites of the naphthalene rings, serving as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,C1=CC=C(C#CC#C1)S,"to the 1st and 4th carbons of the benzene ring.
+Output:
+C1=CC=C(C#CC#C1)S
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with sulfhydryl anchor groups attached to the 1st and 4th carbons of the benzene ring.
+Output:
+C1=CC=C(C#CC#C1)S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with sulfhydryl anchor groups attached to the 1st and 4th carbons of the benzene ring.
+Output:
+C1=CC=C(C#CC#C1)S
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with sulfhydryl anchor groups attached to the 1st and 4th carbons of the benzene ring.
+Output:
+C1="
+14,10,"This molecule uses a naphthalene skeleton with methylthio groups connecting to symmetric positions, functioning as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CSC1=CC=C(C=C1)SC,"CC2=C1OC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene ring as the core structure, featuring methylthio moieties bonded to two opposite ring carbons, with both moieties serving as anchor groups.
+Output:
+CSC1=CC=C(C=C1)SC
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with methylamino groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+CNC1=CC2=C(C=C1)C=C(C=C2)NC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a diphenylacetylene core structure, featuring methylthio groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups.
+Output:
+CSC1=CC=C(C#CC2=CC=C(SC)C=C2)C=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule"
+15,10,"This molecule has a pyridine core with two sulfhydryl groups attached to the 2nd and 6th carbons, acting as anchor groups.",SC1=CC=CC(S)=N1,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,".
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of five fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of three benzene rings linked in a row.
+Output:
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of six fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 11:
+Instruction: Given the caption of a molecule,"
+16,10,"This molecule features a pyridine framework where sulfhydryl moieties bond to symmetric sites of the pyridine ring, serving as anchor groups.",SC1=CC=CC(S)=N1,C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N,"=C3)C=C2C=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a diphenylacetylene framework, where amino groups are positioned on the two benzene rings, and both groups function as anchor groups.
+Output:
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Anchoring group, consisting of S-Methyl thioacetate.
+Output:
+CC(=O)SC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a naphthalene framework where amino moieties bond to symmetric sites of the naphthalene rings, serving as anchoring groups.
+Output:
+NC1=CC=C2C=C(N)C=CC2=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of an anthracene backbone with iodine atoms attached to terminal benzene rings as anchor groups.
+Output:
+IC1=CC2=CC"
+17,10,"This molecule uses a pyridine skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=CC(S)=N1,Example8,"oring groups.
+Output:
+SS
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diphenylacetylene backbone, with sulfhydryl groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)S)S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with methylthio and carboxyl groups attached oppositely, both acting as anchor groups.
+Output:
+CSC1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)O
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of three benzene rings connected by carbon-carbon triple bond, with methylthio groups attached at both ends of the structure.
+Output:
+CSC1=CC=C(C=C1)C#CC2=CC=C(C=C2)C#CC3=CC=C(C=C3)SC
+
+Example 11:
+Instruction"
+18,10,"This molecule has a pyridine core with S-Methyl thioacetate groups attached to the 3rd and 5th carbons, acting as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CNC1=CC2=C(C=C1)C=C(C=C2)NC,"=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with methylamino groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+CNC1=CC2=C(C=C1)C=C(C=C2)NC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, with methylamino groups attached to two opposite carbon atoms of the ring, and these groups act as anchor groups.
+Output:
+CNC1=CC=C(NC)C=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a phenanthrene core consisting of three benzene rings, with two carboxyl groups attached to the terminal benzene as anchor groups.
+Output:
+C1=CC2=C(C=CC3=C2C=CC(=C3)C(=O)O)C=C1C(=O)O
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+A"
+19,10,"This molecule features a pyridine framework where two S-Methyl thioacetate groups bond to symmetric sites of the pyridine ring, serving as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)S,"caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a core structure composed of two benzene rings linked via an azo bond, and contains sulfhydryl groups on both benzene rings, which act as anchor groups.
+Output:
+C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with methylamino groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+CNC1=CC2=C(C=C1)C=C(C=C2)NC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two pyridine rings linked by three benzene rings in a chain, and the nitrogen atoms of the pyridine rings serve as potential anchoring groups.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C3=CC=NC=C3)C4=CC=C(C=C4)C5=CC=NC=C5
+
+The final answer is"
+20,10,"This molecule uses a pyridine skeleton with S-Methyl thioacetate groups connecting to symmetric positions, functioning as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,C1=CC=C2C=CC=CC2=C1,"SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon with two fused benzene rings in a planar.
+Output:
+C1=CC=C2C=CC=CC2=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two carbon atoms connected by a carbon-carbon triple bond.
+Output:
+C#C
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Sulfhydryl anchor group.
+Output:
+S
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule connects two benzene rings via a diacetylene chain, with methylthio groups acting as anchoring groups present on benzene rings.
+Output:
+CSC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC
+
+Example 13:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a fused ring system made up of two benzene rings, linked by a thiophene, with cyano groups attached to each benzene ring acting as anch"
+21,10,"This molecule has a pyrene core with methylamino groups attached to symmetric positions, acting as anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,O=C(O)C1=CC=CO1,"CC=CO1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a furan core with carboxyl groups, where carboxyl groups attached to its 1st and 2nd carbons of furan core.
+Output:
+O=C(O)C1=CC=CO1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a furan core with carboxyl groups, where carboxyl groups attached to its 1st and 3rd carbons of furan core.
+Output:
+O=C(O)C1=CC=CO1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a furan core with carboxyl groups, where carboxyl groups attached to its 1st and 5th carbons of furan core.
+Output:
+O=C(O)C1=CC=CO1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a furan core with carboxyl groups, where carboxyl groups attached to"
+22,10,This molecule features a pyrene framework where Methylamino anchor groups bond to symmetric sites of the pyrene rings.,CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,Example8,"a hydroxyl group.
+Output:
+O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with methylamino groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+CNC1=CC2=C(C=C1)C=C(C=C2)NC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a benzene framework where bromine atoms bond to the 1st and 4th positions of the benzene ring as anchor groups.
+Output:
+C1=CC(=CC=C1Br)Br
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a Biphenyl made up of two benzene rings, each containing a cyano anchor group.
+Output:
+C1=CC(=CC=C1C#N)C2=CC=C(C=C2)C#N
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Methylthio groups serve as anchoring moieties.
+Output:
+CS"
+23,10,"This molecule uses a pyrene skeleton with methylamino groups connecting to symmetric positions, functioning as potential anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,IC1=C2C=CC=CC2=C1I,"thalene core with iodine atoms as anchor groups attached to the 1st and 4th carbons of the naphthalene ring.
+Output:
+IC1=C2C=CC=CC2=C1I
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a Biphenyl structure with two benzene rings, each containing a nitro group.
+Output:
+C1=CC(=CC=C1[N+]=[O-])C2=CC=C(C=C2)[N+]=[O-]
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Anchoring group, consisting of carboxyl.
+Output:
+C(=O)O
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with iodine atoms attached to each benzene ring as anchor groups.
+Output:
+IC1=CC=C(C2=CC=C(I)C=C2)C=C1
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core with"
+24,10,"This molecule consists of a benzene ring as the backbone, with cyano groups attached to two opposite carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,C1=CN=CC=C1C2=CN=CC=C2,"bon bond.
+Output:
+C1=CN=CC=C1C2=CN=CC=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of five fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C34)C=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is anthracene, a polycyclic aromatic hydrocarbon composed of three fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C34)C=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of seven carbon atoms with amino groups at both terminal ends acting as anchoring groups.
+Output:
+C(CCCCNC)CCN
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a"
+25,10,"This molecule has a benzene ring as the core structure, featuring cyano groups bonded to two distinct ring carbons as anchor groups to access electrodes.",C1=CC(=CC=C1C#N)C#N,C1=CC=C(C(=O)O)C(=O)O)C=C1,"hydroxyl groups attached to the benzene ring.
+Output:
+C1=CC=C(C(=O)O)C(=O)O)C=C1
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a six-membered aromatic heterocycle with a sulfur atom in the ring.
+Output:
+C1=CC=CS=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a six-membered aromatic heterocycle with an oxygen atom in the ring.
+Output:
+C1=CC=CO=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a six-membered aromatic heterocycle with a nitrogen atom in the ring.
+Output:
+C1=CC=NC=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a six-membered aromatic heterocycle with a sulfur atom in the ring.
+Output:
+C1=CC=CS=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict"
+26,10,"This molecule contains a benzene ring framework, with cyano groups positioned on two separate carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,NC1=CC=C2C=C(N)C=CC2=C1,"(C=C(C=C3)C2)C
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a naphthalene skeleton with amino groups connecting to symmetric positions, functioning as potential anchor groups.
+Output:
+NC1=CC=C2C=C(N)C=CC2=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a diphenylacetylene framework, where methylthio groups are positioned on the two benzene rings, and both groups function as anchor groups.
+Output:
+CSC1=CC=C(C#CC2=CC=C(SC)C=C2)C=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a benzene skeleton with iodine atoms connecting to the 1st and 4th carbons of the benzene ring as anchor groups.
+Output:
+IC1=CC=C(I)C=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a phenazine backbone where methylthio groups bond to the"
+27,10,This molecule consists of a naphthalene backbone with iodine atoms attached to each benzene ring as anchor groups.,IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC=CC=C1C2=CC=CC=C2,":
+CC(=CC1=CC=CC=C1)SS
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a triple covalent bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a double covalent bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a single covalent bond.
+Output:
+C1=CC=C(C=C1)C2=CC=CC=C2
+
+The final answer is: 
+C1=CC(=CC=C1C#N)C2=CC=C(C=C2)C#N
+CNC1=NC(=CC=C1)NC
+C1=CC=NC=C1
+C1=CC=C(C=C1)C2=CC=CC=C2"
+28,10,"This molecule has a naphthalene core structure, featuring iodine atoms bonded to both benzene rings as anchor groups.",IC1=CC2=C(C=C1)C=C(I)C=C2,CC(=O)SC1=CC=CC=C1C#CC(=O)SC2=CC=CC=C2,":
+CSC1=CC=CC=C1C#CSC2=CC=CC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with S-Methyl thioacetate anchor groups attached on both sides.
+Output:
+CC(=O)SC1=CC=CC=C1C#CC(=O)SC2=CC=CC=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with S-Ethyl thioacetate anchor groups attached on both sides.
+Output:
+CC(=S)CC(=O)SC1=CC=CC=C1C#CC(=S)CC(=O)SC2=CC=CC=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with S-Isopropyl thioacetate anchor groups attached on both sides.
+Output:
+CC(=S)CC(="
+29,10,"This molecule contains a naphthalene framework, where iodine atoms are positioned on the two benzene rings.",IC1=CC2=C(C=C1)C=C(I)C=C2,CO1=CC2=C(C=C1)C=C(C=C2)O,": Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with hydroxyl groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+CO1=CC2=C(C=C1)C=C(C=C2)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a chain of benzene rings connected to two pyridine rings, where the nitrogen in the pyridine rings can act as anchoring groups.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C3=CC=NC=C3)C4=CC=C(C=C4)C5=CC=NC=C5
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is a polycyclic aromatic hydrocarbon consisting of three fused benzene rings in a rectilinear arrangement.
+Output:
+C1=CC=C2C=C3C=CC=CC3=CC2=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule"
+30,10,"This molecule uses a benzene skeleton with thiophene groups connecting to the para carbons, functioning as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=CC=C1C2=CC=CC=C2,"9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a double covalent bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a triple covalent bond.
+Output:
+C1=C=CC=C1C2=C=CC=C2
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a single covalent bond.
+Output:
+C1=CC=C(C=C1)C2=CC=CC=C2
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected by a double covalent bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 13:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of two benzene rings connected"
+31,10,"This molecule has a benzene core with two thiophene groups attached to symmetric para positions, acting as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,CC(=O)SC1=CC=CC=C1C2=CC=CC=C2SC3=CC=CC=C3C(=O)S,"benzene ring.
+Output:
+CC(=O)SC1=CC=CC=C1C2=CC=CC=C2SC3=CC=CC=C3C(=O)S
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene structure.
+Output:
+C1=CC=C2=C3C=CC=CC3=C2C=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is structured with a pyridine ring as the central skeleton, where cyano groups bond to the carbon atoms at the 2nd and 6th sites of the pyridine ring, and these amino groups function as anchor groups.
+Output:
+C1=CC(=NC(=C1)C#N)C#N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is an anthracene.
+Output:
+C1=CC=C2C=C3C=CC=CC3=CC2=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input"
+32,10,"This molecule features a benzene framework where thiophene rings bond to opposite positions of the benzene core, serving as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,CSC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC,"molecule connects two benzene rings via a diacetylene chain, with methylthio groups acting as anchoring groups present on benzene rings.
+Output:
+CSC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a naphthalene skeleton with Cyano groups connecting to symmetric positions, functioning as anchor groups.
+Output:
+C1=CC2=C(C=CC(=C2)C#N)C=C1C#N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a phenanthrene core consisting of three benzene rings, with two cyano groups attached to the terminal benzene rings as anchor groups.
+Output:
+C1=CC2=C(C=CC3=C2C=CC(=C3)C#N)C=C1C#N
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene ring as the core structure, featuring methylamino groups bonded to two distinct ring carbons"
+33,10,This molecule contains two thiophene groups that are attached to serve as anchor groups.,C1=CSC=C1C2=CSC=C2,C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O,"7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core with carboxyl groups attached to symmetric positions, acting as anchor groups.
+Output:
+C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of six carbon atoms with carboxyl groups at both terminal ends acting as anchoring moieties.
+Output:
+CC(C(=O)O)CCC(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a thiophene skeleton with two pyridine connected by carbon-carbon triple bond, and the pyridine function as potential anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed"
+34,10,This molecule has two thiophene groups functioning as anchor groups.,C1=CSC=C1C2=CSC=C2,CC(=O)SC1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3)SC(=O)C,"the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a phenanthrene core structure, featuring three fused benzene rings, and contains S-Methyl thioacetate groups on the end benzene rings.
+Output:
+CC(=O)SC1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3)SC(=O)C
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a pyridine framework where two cyano groups bonds to the 2nd and 6th carbon atoms.
+Output:
+C1=CC(=NC(=C1)C#N)C#N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of an anthracene backbone with methylthio groups attached to the terminal benzene rings, and these groups act as anchor groups.
+Output:
+CSC1=CC=C2C=C3C=C(SC)C=CC3=CC2=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a chain of three"
+35,10,This molecule features two thiophene groups that act as anchor groups.,C1=CSC=C1C2=CSC=C2,C1=CC=C(C#C)C=C1C#C,"to each benzene ring.
+Output:
+C1=CC=C(C#C)C=C1C#C
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with iodine atoms attached to each benzene ring as anchor groups.
+Output:
+IC1=CC=C(C2=CC=C(I)C=C2)C=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a furan skeleton with two pyridine connected by carbon-carbon triple bond, and the pyridine function as potential anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(O2)C#CC3=CC=NC=C3
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Anchoring group, consisting of S-Methyl thioacetate.
+Output:
+CC(=O)SC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is diethynylbenzene, a benzene core with ethyn"
+36,10,"This molecule features a biphenyl structure with four amino groups attached to symmetric positions, acting as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3),"of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of three fused benzene rings in a planar.
+Output:
+C1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3)
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of eight carbon atoms with sulfhydryl groups at both terminal ends acting as anchoring moieties.
+Output:
+C(CCCCS)CCCS
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a pyridine ring as the core backbone, and methylamino groups act as anchor groups attached to the 2nd and 6th carbon atoms of the pyridine ring structure.
+Output:
+CNC1=NC(=CC=C1)NC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has diphenylacetylene core structure and contains S-Methyl thioacetate groups serveing as anchor groups.
+Output:
+CC(=O)SC1="
+37,10,"This molecule uses a biphenyl framework where four amino moieties bond to the benzene rings, functioning as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC=C(C(=O)[N+]([O-])=O)C=C1C2=CC=CC=C2,"with a nitro group attached to one of the benzene rings.
+Output:
+C1=CC=C(C(=O)[N+]([O-])=O)C=C1C2=CC=CC=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings connected by a carbon-carbon single bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings connected by a carbon-carbon double bond.
+Output:
+C1=CC=CC=C1C2=C3C=CC=CC3=C2
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of three benzene rings connected by a carbon-carbon single bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is"
+38,10,This molecule has a biphenyl core with four amino groups as anchor groups.,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,CN1C=CC(=NC=C1)NC,"groups serve as anchoring groups.
+Output:
+CN1C=CC(=NC=C1)NC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a six-membered aromatic heterocycle with a nitrogen atom in the ring.
+Output:
+C1=CC=NC=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a benzene skeleton with iodine atoms connecting to the 1st and 4th carbons of the benzene ring as anchor groups.
+Output:
+IC1=CC=C(I)C=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has two pyridine linked by a linear carbon chain made up of four carbon atoms, with each pyridine ring acting as an anchor group.
+Output:
+C1=CN=CC=C1CCCCC2=CC=NC=C2
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Methylamino groups serve as anchoring groups.
+Output:
+CNC
+
+Example 13:
+Instruction: Given"
+39,10,"This molecule has a furan core with two pyridyl groups attached to symmetric positions, acting as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,C1=CC=NC=C1C#N,"groups.
+Output:
+C1=CC=NC=C1C#N
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a thiophene core attached by two cyano groups.
+Output:
+C1=CC=CS=C1C#N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a furan core attached by two cyano groups.
+Output:
+C1=CC=OC=C1C#N
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core attached by two cyano groups.
+Output:
+C1=CC=CC=C1C#N
+
+The final answer is: 
+CNC1=CC=C(C#CC2=CC=C(NC)C=C2)C=C1
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+C1=CC2=C(C=C1C#N)OC3=C2C=CC(=C3)C#N
+C1=CC="
+40,10,This molecule uses a furan framework where two pyridyl groups are attached to serve as anchor groups.,C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,CSC1=CC=C(C#CC2=CC=C(SC)C=C2)C=C1,"the SMILES representation.
+Input:
+This molecule contains a diphenylacetylene framework, where methylthio groups are positioned on the two benzene rings, and both groups function as anchor groups.
+Output:
+CSC1=CC=C(C#CC2=CC=C(SC)C=C2)C=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a biphenyl core structure, featuring iodine atoms bonded to both benzene rings of the biphenyl as anchor groups.
+Output:
+IC1=CC=C(C2=CC=C(I)C=C2)C=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with methylthio and carboxyl groups attached oppositely, both acting as anchor groups.
+Output:
+CSC1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)O
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a diphenylacetylene framework, where methylthio groups are positioned on"
+41,10,"This molecule features a furan core anchored by pyridyl rings, functioning as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,CSC1=CC=C(C=C1)SC,"predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, with two methylthio groups attached to opposite positions of the ring, and these groups act as anchor groups.
+Output:
+CSC1=CC=C(C=C1)SC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of three benzene rings linked in a row, and methylthio groups act as anchoring groups present on the end benzene rings.
+Output:
+CSC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)SC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has two pyridine linked by a linear carbon chain made up of four carbon atoms, with each pyridine ring acting as an anchor group.
+Output:
+C1=CN=CC=C1CCCCC2=CC=NC=C2
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Sulfhydryl anchor group.
+Output:
+S
+
+Example 12:
+Instruction: Given the caption"
+42,10,This molecule contains a naphthalene core with S-methyl thioacetate anchor groups.,CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,C1=CC=C(C=C1)C2=CC=C(Br)C(Br)=C2,"the biphenyl structure.
+Output:
+C1=CC=C(C=C1)C2=CC=C(Br)C(Br)=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a backbone consisting of three carbon atoms and features carboxyl anchoring groups attached at each end of the chain.
+Output:
+CC(=O)OCCC(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a backbone consisting of five carbon atoms and features carboxyl anchoring groups attached at each end of the chain.
+Output:
+CC(=O)OCCCCC(=O)O
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a backbone consisting of six carbon atoms and features carboxyl anchoring groups attached at each end of the chain.
+Output:
+CC(=O)OCCCCCC(=O)O
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a backbone consisting of seven carbon atoms and features carboxyl anchoring groups attached at each end"
+43,10,"This molecule uses a naphthalene skeleton where S-methyl thioacetate moieties bond to symmetric positions of the naphthalene ring, functioning as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CN1C=CC=NC=C1,"Input:
+This molecule is composed of a pyridine ring with an amino group bonded to the 4th carbon of the pyridine ring as an anchor group.
+Output:
+CN1C=CC=NC=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a pyridazine ring with an amino group bonded to the 4th carbon of the pyridazine ring as an anchor group.
+Output:
+CN1C=CNC=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a pyrimidine ring with an amino group bonded to the 4th carbon of the pyrimidine ring as an anchor group.
+Output:
+CN1C=CNC=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a pyrazine ring with an amino group bonded to the 4th carbon of the pyrazine ring as an anchor group.
+Output:
+CN1C=CNC=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:"
+44,10,"This molecule features a naphthalene framework with two S-methyl thioacetate groups attached to the aromatic core, acting as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,C1=CC(=CC=C1C#CC2=CC=C(C=C2)S)S,", predict the SMILES representation.
+Input:
+This molecule has a diphenylacetylene core structure, featuring sulfhydryl groups bonded to both benzene rings of the backbone.
+Output:
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)S)S
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a biphenyl core structure featuring carboxyl moieties on each benzene ring, with both moieties serving as anchor groups to access electrodes.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core with carboxyl groups and iodo groups attached, where iodo groups act as anchor groups at the 2nd and 5th carbons of the benzene ring.
+Output:
+C1=C(C(=CC(=C1I)C(=O)O)I)C(=O)O
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES"
+45,10,"This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,C1=CC=CC=C1C2=CC=CC=C2,"of two benzene rings connected by a double bond.
+Output:
+C1=CC=CC=C1C2=CC=CC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of five fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core with hydroxyl groups as anchor groups attached to the 1st and 4th carbons of the benzene ring.
+Output:
+C1=CC(=CC=C1O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic hydrocarbon composed of six fused benzene rings in a planar.
+Output:
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+
+Example 10:
+Instruction: Given the caption of"
+46,10,"This molecule features a fluoren-9-one core where methylthio moieties bond to the benzene rings, functioning as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,C#N,"as anchoring groups.
+Output:
+C#N
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of two benzene rings connected by an azo group as the central backbone, with a sulfhydryl group attached to each benzene ring, serving as anchor groups.
+Output:
+C1=CC(=CC=C1N=NC2=CC=C(C=C2)S)S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a diacetylene chain to link two benzene rings, and methylthio groups serve as anchoring groups bonded to benzene rings.
+Output:
+CSC1=CC=C(C=C1)C#CC#CC2=CC=C(C=C2)SC
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a bicyclic structure with two pyridine rings connected by a single carbon-carbon bond.
+Output:
+C1=CN=CC=C1C2=CC=NC=C2
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the"
+47,10,"This molecule contains a fluoren-9-one core, each benzene ring linked to a methylthio group serving as anchor group.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N,"caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diphenylacetylene backbone, with amino groups attached to each benzene ring, and these groups act as anchor groups.
+Output:
+C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a benzene ring framework, with methylamino groups positioned on two separate carbon atoms of the ring, and both groups function as anchor groups.
+Output:
+CNC1=CC=C(NC)C=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Methylamino group, functioning a anchor group.
+Output:
+CNC
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+Anchoring group, consisting of S-Methyl thioacetate.
+Output:
+CC(=O)SC
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a biphenyl framework with carboxyl groups positioned on its two"
+48,10,"This molecule contains a thiophene core, with carboxyl anchor groups attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC=C,":
+C1=COC(=O)C=C1C(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a carbon chain with one double bond.
+Output:
+CC=C
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a thiophene framework linked by carbon-carbon double bond to pyridine rings, and these pyridine rings serve as anchor groups.
+Output:
+C1=CN=CC=C1C=CC2=CC=C(S2)C=CC3=CC=NC=C3
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a phenanthrene framework made of three fused benzene rings, with thioacetate moieties on the terminal rings serving as anchor groups.
+Output:
+CC(=O)SC1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3)SC(=O)C
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a carbon chain with"
+49,10,"This molecule uses a thiophene skeleton with carboxyl groups connecting to its 1st and 4th carbons, and these groups function as anchor groups.",C1=C(SC(=C1)C(=O)O)C(=O)O,CNC1=NC(=CC=C1)C,"O)C1=O
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a pyridazine skeleton with methyl groups as anchor groups attached to the 2nd and 5th carbons of the pyridazine ring.
+Output:
+CNC1=NC(=CC=C1)C
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core with hydroxyl groups as anchor groups attached to the 1st and 4th carbons of the benzene ring.
+Output:
+C1=CC(=CC=C1O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a pyrazine skeleton with methyl groups as anchor groups attached to the 2nd and 5th carbons of the pyrazine ring.
+Output:
+CNC1=NC(=CC=C1)C
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a benzene core with chloro groups as anchor groups attached to the 1st and 4"
+50,10,"This molecule has a thiophene core with carboxyl groups, where carboxyl groups are attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,C1=NC=CC(=C1)C#C,"the SMILES representation.
+Input:
+This molecule consists of a pyridine ring with an ethynyl group as an anchor group attached to the 2nd carbon of the pyridine ring.
+Output:
+C1=NC=CC(=C1)C#C
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a linear backbone of five carbon atoms and features carboxyl anchoring groups attached at both ends of the chain.
+Output:
+CC(C(=O)O)CC(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a naphthalene backbone with an ethynyl group as an anchor group attached to the 1st carbon of the naphthalene ring.
+Output:
+C1=CC=C2C=CC=CC2=C1C#C
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a linear backbone of seven carbon atoms and features carboxyl anchoring groups attached at both ends of the chain.
+Output:
+CC(C(=O)O)CCC(C(=O)O"
+51,10,"This molecule is composed of a bicyclic structure with two benzene rings connected by a furan, and each benzene ring is attached to an amino group serving as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3,"=C3)C4=CC=NC=C4
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a thiophene framework linked by carbon-carbon triple bond to pyridine rings, and these pyridine rings serve as anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a diphenylacetylene core structure, featuring methylthio groups bonded to both benzene rings of the backbone, with these moieties serving as anchor groups.
+Output:
+CSC1=CC=C(C#CC2=CC=C(SC)C=C2)C=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule uses a benzene skeleton with carboxyl groups connecting, and carboxyl groups function as anchor groups.
+Output:
+C1=CC(=CC=C1C(=O)O)C(=O)O
+
+Example 10:
+Instruction: Given the caption of"
+52,10,"This molecule has a fused ring system made up of two benzene rings linked by a furan, with amino groups attached to each benzene ring acting as anchor groups.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3),"This molecule consists of a phenanthrene core structure, featuring three fused benzene rings.
+Output:
+C1=CC2=C(C=C1)C3=C(C=C2)C=C(C=C3)
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a chain of three benzene rings connected together.
+Output:
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a naphthalene core.
+Output:
+C1=CC=C2C=CC=CC2=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is a polycyclic aromatic hydrocarbon with two fused benzene rings in a planar.
+Output:
+C1=CC=C2C=CC=CC2=C1
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a phenanthrene core structure, featuring three fused benzene rings in a planar."
+53,10,"This molecule contains a bicyclic structure consisting of two benzene rings connected by a furan, with each benzene ring attached to an amino group as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,CSC1=CC=C(C=C1)C2=CC=C(C=C2)C,"groups.
+Output:
+CSC1=CC=C(C=C1)C2=CC=C(C=C2)C
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a diethynylbenzene as the core, with sulfhydryl anchor groups attached on both sides.
+Output:
+C1=CC(=CC=C1C#CS)C#CS
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a biphenyl backbone with methylthio and carboxyl groups attached oppositely, both acting as anchor groups.
+Output:
+CSC1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)O
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of ten carbon atoms with sulfhydryl groups at both terminal ends serving as anchoring moieties.
+Output:
+C(CCCCCS)CCCCS
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a Bip"
+54,10,"This molecule contains a phenanthrene core, with two amino groups attached to the terminal benzene rings as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C(CCCCCCSS)CCCCCSS,"of a molecule, predict the SMILES representation.
+Input:
+This molecule features a linear carbon chain made up of twelve carbon atoms with sulfhydryl groups at both terminal ends acting as anchoring moieties.
+Output:
+C(CCCCCCSS)CCCCCSS
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of six carbon atoms with sulfhydryl groups at both terminal ends serving as anchoring moieties.
+Output:
+C(CCSS)CCCCCSS
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene core with ethynyl groups as anchor groups attached to the 2nd and 5th carbons of the benzene ring.
+Output:
+C#CC1=CC=C(C=C1)C#C
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a linear carbon chain made up of ten carbon atoms with sulfhydryl groups at both terminal ends acting as anchoring moieties.
+Output:
+C(CCCCCCSS)CCCCCSS
+
+Example 11:
+Instruction: Given the caption of a"
+55,10,"This molecule has a phenanthrene backbone, where amino groups are positioned on the terminal benzene rings, serving as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC=CS=C1,".
+Output:
+C1=CC=CS=C1
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a naphthalene backbone with sulfhydryl groups attached at two distinct positions, acting as anchoring moieties.
+Output:
+C1=CC=C2C=CC=CC2=C1S
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is pyrimidine, a six-membered aromatic heterocycle with two nitrogen atoms in the ring.
+Output:
+C1=CN=CN=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a linear carbon chain made up of five carbon atoms with sulfhydryl groups at both terminal ends acting as anchoring moieties.
+Output:
+C(CCS)CCS
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is furan, a five-membered aromatic heterocycle with an oxygen atom in the ring.
+Output:
+C1=CC=CO=C1
+
+Example 12:
+Instruction: Given the"
+56,10,"This molecule uses a phenanthrene skeleton with two amino groups connecting to the terminal benzene rings, functioning as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C=C,")C=C2)C=C1
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon double bond.
+Output:
+C=C
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon single bond.
+Output:
+C-C
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon triple bond.
+Output:
+C#C
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon double bond.
+Output:
+C=C
+
+Example 11:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon single bond.
+Output:
+C-C
+
+Example 12:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is composed of a carbon-carbon triple bond.
+Output:
+C#C
+
+Example 13:
+Instruction: Given the caption of a molecule, predict the SMILES"
+57,10,"This molecule has two pyridine rings linked by a carbon atom, with each pyridine ring acting as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O,"Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a biphenyl framework with carboxyl groups positioned on its two benzene rings, and both groups function as anchor groups for electrode attachment.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a pyridine framework where two methylamino groups bonds to the 2nd and 6th carbon atoms.
+Output:
+CNC1=NC(=CC=C1)NC
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a phenazine core with carboxyl groups as anchor groups.
+Output:
+O=C(O)C1=CC2=NC3=C(C=C(C(=O)O)C=C3)N=C2C=C1
+
+Example 10:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a fused ring system made up of two pyridine rings linked by a carbon-carbon triple bond."
+58,10,"This molecule features two pyridine rings connected by a carbon atom, where each pyridine ring serves as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O,"This molecule has a biphenyl core structure featuring carboxyl moieties on each benzene ring, with both moieties serving as anchor groups to access electrodes.
+Output:
+C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule features a thiophene framework linked by carbon-carbon triple bond to pyridine rings, and these pyridine rings serve as anchor groups.
+Output:
+C1=CN=CC=C1C#CC2=CC=C(S2)C#CC3=CC=NC=C3
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a benzene ring as the backbone, and has two S-Methyl thioacetate anchor groups attached to 1st and 4th carbon atoms.
+Output:
+CC(=O)SC1=CC=C(SC(C)=O)C=C1
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule is diethynylbenzene"
+59,10,"This molecule uses two pyridine rings as the core, linked by a carbon atom, functioning as anchor groups.",C1=CN=CC=C1CC2=CC=NC=C2,CC(=O)SC1=CC=C(C=C1)C2=CC=C(C=C2)SC(=O)C,":
+C1=CC=C(C=C1)C2=CC=CC=C2
+
+Example 7:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a biphenyl backbone with two benzene rings directly connected, and S-Methyl thioacetate anchor groups on each ring.
+Output:
+CC(=O)SC1=CC=C(C=C1)C2=CC=C(C=C2)SC(=O)C
+
+Example 8:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule consists of a polycyclic aromatic heterocycle composed of three fused benzene rings which the two carbon atoms at central benzene ring are replaced by nitrogen atoms.
+Output:
+C1=CC=C2C(=C1)N=C3C=CC=CC3=N2
+
+Example 9:
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule contains a benzene ring framework, with S-Methyl thioacetate groups on each side of benzene ring serving as anchor groups.
+Output:
+CC(=O)SC1=CC=C(SC(C)=O)C=C1
+
+Example 10:"

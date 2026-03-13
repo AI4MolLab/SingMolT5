@@ -1,0 +1,550 @@
+index,k_shot,caption,true_smiles,pred_smiles,raw_text
+0,3,This molecule has two pyridine cores linked by a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,CC#CC1=CC=NC=C1,"CC#CC1=CC=NC=C1
+
+
+The final answer is: CC#CC1=CC=NC=C1≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈"
+1,3,This molecule uses a diacetylene chain to link two pyridine rings.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,CC#CC1=CN=CC=C1,"CC#CC1=CN=CC=C1
+
+
+The final answer is: CC#CC1=CN=CC=C1. </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </"
+2,3,This molecule connects two pyridine rings via a diacetylene chain.,C(C#CC1=CC=NC=C1)#CC1=CC=NC=C1,CC#CC1=CN=CC=C1,"CC#CC1=CN=CC=C1
+
+
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is: CC#CC1=CN=CC=C1
+The final answer is:"
+3,3,This molecule consists of a diphenylacetylene backbone with carboxyl groups attached to each benzene ring.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2Thefinalansweris,"CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2
+
+
+The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The final answer is: CC1=CC=C(C(=O)O)C(=C1)C#CC2=CC=C(C(=O)O)C=C2 The"
+4,3,This molecule features a diphenylacetylene backbone featuring carboxyl groups bonded to both benzene rings.,C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2,"CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+
+
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+The final answer is: CC1=CC"
+5,3,"This molecule contains a diphenylacetylene framework, where carboxyl groups are positioned on the two benzene rings linked by an ethynyl group, and both groups function as anchor groups.",C1=CC(=CC=C1C#CC2=CC=C(C=C2)C(=O)O)C(=O)O,CC#C1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2,"CC#C1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2
+
+
+
+The final answer is: CC#C1=CC=C(C(=O)O)C=C1C#CC2=CC=C(C(=O)O)C=C2"
+6,3,"This molecule has an anthracene core with sulfhydryl groups  attached, acting as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S,"C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S
+
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CC=C2C3=CC=CC=C3S}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC"
+7,3,"This molecule features an anthracene framework where sulfhydryl groups bond to symmetric sites, serving as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC2=C(C=CC(=C2)C3=C(C=CC(=C3)S)C=C1)C=C4=C(C=CC(=C4)S)C=C5=C(C=CC(=C5)S)C=C1,"C1=CC2=C(C=CC(=C2)C3=C(C=CC(=C3)S)C=C1)C=C4=C(C=CC(=C4)S)C=C5=C(C=CC(=C5)S)C=C1
+
+
+The final answer is: $\boxed{C1=CC2=C(C=CC(=C2)C3=C(C=CC(=C3)S)C=C1)C=C4=C(C=CC(=C4)S)C=C5=C(C=CC(=C5)S)C=C1}$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$"
+8,3,"This molecule uses an anthracene skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=C2C=C3C=C(S)C=CC3=CC2=C1,C1=CC=C2C(=CC(=C2C3=C1C=CC(=C3)S)C4=C5C=CC(=C5C6=C4C=CC(=C6)S)C7=C8C=CC(=C8C9=C7C=CC(=C9)S)C10=C11C=CC(=C11C12=C10C=CC(=C12)S)C13=C14C=CC(=C14C15=C13C=CC(=C15)S)C16=C17C=CC(=C17C18=C16C=CC(=C18)S)C19=C20C=CC(=C20C21=C19C=CC(=C21)S)C22=C23C=CC(=C23C24=C22C=CC(=C24)S)C25=C26C=CC(=C26C27=C25C=CC(=C27)S)C28=C29C=CC(=C29C30=C28C=CC(=C30)S)C31=C32C=CC(=C32C33=C31C=CC(=C33)S)C,C1=CC=C2C(=CC(=C2C3=C1C=CC(=C3)S)C4=C5C=CC(=C5C6=C4C=CC(=C6)S)C7=C8C=CC(=C8C9=C7C=CC(=C9)S)C10=C11C=CC(=C11C12=C10C=CC(=C12)S)C13=C14C=CC(=C14C15=C13C=CC(=C15)S)C16=C17C=CC(=C17C18=C16C=CC(=C18)S)C19=C20C=CC(=C20C21=C19C=CC(=C21)S)C22=C23C=CC(=C23C24=C22C=CC(=C24)S)C25=C26C=CC(=C26C27=C25C=CC(=C27)S)C28=C29C=CC(=C29C30=C28C=CC(=C30)S)C31=C32C=CC(=C32C33=C31C=CC(=C33)S)C
+9,3,"This molecule contains a Biphenyl structure consisting of two benzene rings, each with an amino group attached as anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,CN1=CC=C(C=C1)C2=CC=C(C=C2)N,"CN1=CC=C(C=C1)C2=CC=C(C=C2)N
+
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$
+
+The final answer is"
+10,3,"This molecule has a Biphenyl made up of two benzene rings, each containing an amino anchor group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,NC1=CC=CC=C1C2=CC=CC=C2,"NC1=CC=CC=C1C2=CC=CC=C2
+
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is: $\boxed{NC1=CC=CC=C1C2=CC=CC=C2}$
+
+The final answer is:"
+11,3,"This molecule is composed of a Biphenyl structure with two benzene rings, each containing an amino group.",NC1=CC=C(C2=CC=C(N)C=C2)C=C1,CN1=CC=C(C=C1)C2=CC=C(C=C2)N,"CN1=CC=C(C=C1)C2=CC=C(C=C2)N
+
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is: $\boxed{CN1=CC=C(C=C1)C2=CC=C(C=C2)N}$ 
+The final answer is"
+12,3,"This molecule has a naphthalene core with methylthio groups attached to symmetric positions, acting as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC=C2C=CC=CC2=C1SCBookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion,"CC1=CC=C2C=CC=CC2=C1SC
+
+
+The final answer is: CC1=CC=C2C=CC=CC2=C1SC Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question."
+13,3,"This molecule features a naphthalene framework where methylthio groups bond to symmetric sites of the naphthalene rings, serving as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC=CC2=C1C(=C(C(=C2)SC)C)CBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthis,"CC1=CC=CC2=C1C(=C(C(=C2)SC)C)C
+
+
+The final answer is: CC1=CC=CC2=C1C(=C(C(=C2)SC)C)C Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this"
+14,3,"This molecule uses a naphthalene skeleton with methylthio groups connecting to symmetric positions, functioning as anchor groups.",CSC1=CC=C2C=C(SC)C=CC2=C1,CC1=CC=C2C=CC=CC2=C1SC,"CC1=CC=C2C=CC=CC2=C1SC
+
+
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C=CC=CC2=C1SC}$ 
+The final answer is: $\boxed{CC1=CC=C2C"
+15,3,"This molecule has a pyridine core with two sulfhydryl groups attached to the 2nd and 6th carbons, acting as anchor groups.",SC1=CC=CC(S)=N1,CN1C=CC=CC(=C1)SS,"CN1C=CC=CC(=C1)SS
+
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The final answer is: $\boxed{CN1C=CC=CC(=C1)SS}$
+
+The"
+16,3,"This molecule features a pyridine framework where sulfhydryl moieties bond to symmetric sites of the pyridine ring, serving as anchor groups.",SC1=CC=CC(S)=N1,C1=CC=NC=C1S,"C1=CC=NC=C1S
+
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$
+
+The final answer is: $\boxed{C1=CC=NC=C1S}$"
+17,3,"This molecule uses a pyridine skeleton with sulfhydryl groups connecting to symmetric positions, functioning as anchor groups.",SC1=CC=CC(S)=N1,C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC,C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC=C1S)C1=CC(=CC
+18,3,"This molecule has a pyridine core with S-Methyl thioacetate groups attached to the 3rd and 5th carbons, acting as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C.CC(=O)SC1=CN=CC(=,"CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C
+
+
+The final answer is: CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(=C1)CC(=O)SC2=CN=CC(=C2)C. CC(=O)SC1=CN=CC(="
+19,3,"This molecule features a pyridine framework where two S-Methyl thioacetate groups bond to symmetric sites of the pyridine ring, serving as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(=O)SC1=CN=CC=C1SC(=O)C.Thefinalansweris,"CC(=O)SC1=CN=CC=C1SC(=O)C
+
+The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O)SC1=CN=CC=C1SC(=O)C. The final answer is: CC(=O"
+20,3,"This molecule uses a pyridine skeleton with S-Methyl thioacetate groups connecting to symmetric positions, functioning as anchor groups.",CSC(=O)C1=CN=CC(C(=O)SC)=C1,CC(C)S(=O)(=O)N1=CC=CC=C1,"CC(C)S(=O)(=O)N1=CC=CC=C1
+
+
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC=C1
+The final answer is: CC(C)S(=O)(=O)N1=CC=CC"
+21,3,"This molecule has a pyrene core with methylamino groups attached to symmetric positions, acting as anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,C1=CC2=C(C=CC(=C2)C3=CC=CC=CC3N(C)C)C=CC(=C1)N(C)CBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestion,"C1=CC2=C(C=CC(=C2)C3=CC=CC=CC3N(C)C)C=CC(=C1)N(C)C
+
+
+The final answer is: C1=CC2=C(C=CC(=C2)C3=CC=CC=CC3N(C)C)C=CC(=C1)N(C)C Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question"
+22,3,This molecule features a pyrene framework where Methylamino anchor groups bond to symmetric sites of the pyrene rings.,CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C1C2=C3=C4=C5BookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmark,"CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C1C2=C3=C4=C5
+
+
+The final answer is: CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C1C2=C3=C4=C5 Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark"
+23,3,"This molecule uses a pyrene skeleton with methylamino groups connecting to symmetric positions, functioning as potential anchor groups.",CNC1=CC2=C3C(=C1)C=CC1=CC(NC)=CC(=C13)CC2,CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C14C=C2C=C3C=C5BookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthis,"CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C14C=C2C=C3C=C5
+
+
+The final answer is: CN(C)C1=CC2=CC=CC3=CC=CC4=CC=CC5=C14C=C2C=C3C=C5 Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this"
+24,3,"This molecule consists of a benzene ring as the backbone, with cyano groups attached to two opposite carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,C1=CC=C(C(=C1C#N)C#N)C#N,"C1=CC=C(C(=C1C#N)C#N)C#N
+
+
+The best answer is C1=CC=C(C(=C1C#N)C#N)C#N. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this"
+25,3,"This molecule has a benzene ring as the core structure, featuring cyano groups bonded to two distinct ring carbons as anchor groups to access electrodes.",C1=CC(=CC=C1C#N)C#N,C1=CC(=CC(=C1C#N)C#N)C#N,"C1=CC(=CC(=C1C#N)C#N)C#N
+
+
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The final answer is: C1=CC(=CC(=C1C#N)C#N)C#N
+The"
+26,3,"This molecule contains a benzene ring framework, with cyano groups positioned on two separate carbon atoms of the ring.",C1=CC(=CC=C1C#N)C#N,CC1=CC(=CC(=C1)C#N)C#N,"CC1=CC(=CC(=C1)C#N)C#N
+
+
+The best answer is CC1=CC(=CC(=C1)C#N)C#N. \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\end{document} \\"
+27,3,This molecule consists of a naphthalene backbone with iodine atoms attached to each benzene ring as anchor groups.,IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC2=C(C=C1)IC1=CC=CC2=C1I$---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,"C1=CC2=C(C=C1)I C1=CC=CC2=C1I
+
+---
+
+Solution
+
+C1=CC2=C(C=C1)I C1=CC=CC2=C1I
+
+The final answer is: $\boxed{C1=CC2=C(C=C1)I C1=CC=CC2=C1I}$--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---"
+28,3,"This molecule has a naphthalene core structure, featuring iodine atoms bonded to both benzene rings as anchor groups.",IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC2=C(C=C1)IC3=CC=C(C=C3)IBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmark,"C1=CC2=C(C=C1)I C3=CC=C(C=C3)I
+
+
+The final answer is: C1=CC2=C(C=C1)I C3=CC=C(C=C3)I Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark"
+29,3,"This molecule contains a naphthalene framework, where iodine atoms are positioned on the two benzene rings.",IC1=CC2=C(C=C1)C=C(I)C=C2,C1=CC=CC2=C1C(=I)C(=I)C=C2BookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestion,"C1=CC=CC2=C1C(=I)C(=I)C=C2
+
+
+The final answer is: C1=CC=CC2=C1C(=I)C(=I)C=C2 Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question"
+30,3,"This molecule uses a benzene skeleton with thiophene groups connecting to the para carbons, functioning as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=C(C=C1)C2=CC=CS2,"C1=CC=C(C=C1)C2=CC=CS2
+
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=C(C=C1)C2=CC=CS2}$
+
+The final answer is:"
+31,3,"This molecule has a benzene core with two thiophene groups attached to symmetric para positions, acting as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=C(C2=CC=CS2)C=C1,"C1=CC=C(C2=CC=CS2)C=C1
+
+
+The final answer is: C1=CC=C(C2=CC=CS2)C=C1. </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </"
+32,3,"This molecule features a benzene framework where thiophene rings bond to opposite positions of the benzene core, serving as anchor groups.",C1=CC(=CC=C1C2=CSC=C2)C3=CSC=C3,C1=CC=CC=C1C2=CC=CS2,"C1=CC=CC=C1C2=CC=CS2
+
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C1C2=CC=CS2}$
+
+The final answer is: $\boxed{C1=CC=CC=C"
+33,3,This molecule contains two thiophene groups that are attached to serve as anchor groups.,C1=CSC=C1C2=CSC=C2,S1=CC=CS1,"S1=CC=CS1
+```python
+def predict_smiles(caption):
+    if ""thiophene"" in caption:
+        return ""S1=CC=CS1""
+    elif ""naphthalene"" in caption:
+        return ""CNC1=CC2=C(C=C1)C=C(C=C2)NC""
+    elif ""diphenylacetylene"" in caption:
+        return ""C1=CC(=CC=C1C#CC2=CC=C(C=C2)N)N""
+    elif ""five aromatic heterocycle"" in caption:
+        return ""C1=COC=C1""
+    else:
+        return None
+
+print(predict_smiles(""This molecule contains two thiophene groups that are attached to serve as anchor groups.""))
+print(predict_smiles(""This molecule consists of a naphthalene backbone with methylamino groups attached to each benzene ring, and these groups act as anchor groups.""))
+print(predict_smiles(""This molecule consists of a diphenylacetylene backbone, with amino groups attached to each benzene ring, and these groups act as anchor groups.""))
+print(predict_smiles(""This molecule consists of a five aromatic heterocycle with a oxygen"
+34,3,This molecule has two thiophene groups functioning as anchor groups.,C1=CSC=C1C2=CSC=C2,S1=CC=CS1,"S1=CC=CS1
+
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1=CC=CS1}$
+
+The final answer is: $\boxed{S1"
+35,3,This molecule features two thiophene groups that act as anchor groups.,C1=CSC=C1C2=CSC=C2,S1=CC=CC=C1S2=CC=CC=C2,"S1=CC=CC=C1S2=CC=CC=C2
+
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is: $\boxed{S1=CC=CC=C1S2=CC=CC=C2}$
+
+The final answer is:"
+36,3,"This molecule features a biphenyl structure with four amino groups attached to symmetric positions, acting as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2,"C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2
+```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C=C2```
+
+
+
+The final answer is: C1=CC=C(C(N)=N)C=C1C2=CC=C(C(N)=N)C"
+37,3,"This molecule uses a biphenyl framework where four amino moieties bond to the benzene rings, functioning as anchor groups.",C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,C1=CC=C(C(=C1N)N)C2=CC=C(C(=C2)N)NBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestion,"C1=CC=C(C(=C1N)N)C2=CC=C(C(=C2)N)N
+
+
+The final answer is: C1=CC=C(C(=C1N)N)C2=CC=C(C(=C2)N)N Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question"
+38,3,This molecule has a biphenyl core with four amino groups as anchor groups.,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,NC1=CC=C(C=C1)NC2=CC=CC=C2Thefinalansweris,"NC1=CC=C(C=C1)NC2=CC=CC=C2
+
+
+The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC=CC=C2 The final answer is: NC1=CC=C(C=C1)NC2=CC"
+39,3,"This molecule has a furan core with two pyridyl groups attached to symmetric positions, acting as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,OC1=CC=CC2=C1N=CC=C2,"OC1=CC=CC2=C1N=CC=C2
+
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The final answer is: $\boxed{OC1=CC=CC2=C1N=CC=C2}$
+
+The"
+40,3,This molecule uses a furan framework where two pyridyl groups are attached to serve as anchor groups.,C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$CN1C=CC(=O)N=C1C2=CC=CO2$$\boxed,"CN1C=CC(=O)N=C1C2=CC=CO2
+
+
+The final answer is: $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N=C1C2=CC=CO2}$ $\boxed{CN1C=CC(=O)N"
+41,3,"This molecule features a furan core anchored by pyridyl rings, functioning as anchor groups.",C1=CN=CC=C1C2=CC=C(O2)C3=CC=NC=C3,C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2),C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)C1=CC=NC2=C1C=CC(=C2)
+42,3,This molecule contains a naphthalene core with S-methyl thioacetate anchor groups.,CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC1=CC=CC2=CC=CC=C12S(=O)(C)CBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestion,"CC1=CC=CC2=CC=CC=C12S(=O)(C)C
+
+
+The final answer is: CC1=CC=CC2=CC=CC=C12S(=O)(C)C Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question"
+43,3,"This molecule uses a naphthalene skeleton where S-methyl thioacetate moieties bond to symmetric positions of the naphthalene ring, functioning as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C$$$$\boxed,"CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C
+
+
+The final answer is: CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC2=C1C=CC(=C2)SC(=O)C}$$ $$\boxed{CC(=O)SC1=CC=CC"
+44,3,"This molecule features a naphthalene framework with two S-methyl thioacetate groups attached to the aromatic core, acting as anchor groups.",CC(=O)SC1=CC=C2C=C(SC(C)=O)C=CC2=C1,CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)CCC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)CAnswer,"CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C
+
+
+The final answer is: CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C Answer: CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C1C(=C(C(=C2)SC(=O)C)SC(=O)C)C CC1=CC=CC2=C"
+45,3,"This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC2=C(C(=O)C3=C(C=C(C=C3)SC)C=C2)C=C1SC,"CC1=CC2=C(C(=O)C3=C(C=C(C=C3)SC)C=C2)C=C1SC
+
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.
+Output:
+CC1=CC2=C(C(=O)C3=C(C=C(C=C3)SC)C=C2)C=C1SC
+
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.
+Output:
+CC1=CC2=C(C(=O)C3=C(C=C(C=C3)SC)C=C2)C=C1SC
+
+Instruction: Given the caption of a molecule, predict the SMILES representation.
+Input:
+This molecule has a fluoren-9-one core with methylthio groups attached to each benzene ring, acting as anchor groups.
+Output:
+CC1=CC2=C(C(=O)C3=C(C=C(C=C3)SC)C=C2)C=C1"
+46,3,"This molecule features a fluoren-9-one core where methylthio moieties bond to the benzene rings, functioning as anchor groups.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC=C(C(=O)C2=C1C=CC=C2)SCBookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthis,"CC1=CC=C(C(=O)C2=C1C=CC=C2)SC
+
+
+The final answer is: CC1=CC=C(C(=O)C2=C1C=CC=C2)SC Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this"
+47,3,"This molecule contains a fluoren-9-one core, each benzene ring linked to a methylthio group serving as anchor group.",CSC1=CC=C2C(=O)C3=CC=C(SC)C=C3C2=C1,CC1=CC2=C(C=C1)C(=O)C3=C(C=C(C=C3)SC)C2=CSBookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion.Bookmarkthisquestion,"CC1=CC2=C(C=C1)C(=O)C3=C(C=C(C=C3)SC)C2=CS
+
+
+The final answer is: CC1=CC2=C(C=C1)C(=O)C3=C(C=C(C=C3)SC)C2=CS Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question."
+48,3,"This molecule contains a thiophene core, with carboxyl anchor groups attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC1=CC=CS1C(=O)O,"CC1=CC=CS1C(=O)O
+
+
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC=CS1C(=O)O
+The final answer is: CC1=CC"
+49,3,"This molecule uses a thiophene skeleton with carboxyl groups connecting to its 1st and 4th carbons, and these groups function as anchor groups.",C1=C(SC(=C1)C(=O)O)C(=O)O,C1=CC=CS1C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C,C1=CC=CS1C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C(=O)C
+50,3,"This molecule has a thiophene core with carboxyl groups, where carboxyl groups are attached to its 1st and 4th carbons.",C1=C(SC(=C1)C(=O)O)C(=O)O,CC1=CSC(=O)C(=O)C=C1,"CC1=CSC(=O)C(=O)C=C1
+
+
+The best answer is CC1=CSC(=O)C(=O)C=C1. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this question. Bookmark this"
+51,3,"This molecule is composed of a bicyclic structure with two benzene rings connected by a furan, and each benzene ring is attached to an amino group serving as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N$$\boxed,"C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N
+
+
+The final answer is: $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)C(=O)N2C1=CC=CC=C1N}$ $\boxed{C1=CC=C2C(=C1)"
+52,3,"This molecule has a fused ring system made up of two benzene rings linked by a furan, with amino groups attached to each benzene ring acting as anchor groups.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)NThefinalansweris,"C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N
+
+
+The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC=C(C=C4)N The final answer is: C1=CC(=CC=C1N)C2=C3C=CC(=C3O2)C4=CC"
+53,3,"This molecule contains a bicyclic structure consisting of two benzene rings connected by a furan, with each benzene ring attached to an amino group as an anchor group.",NC1=CC2=C(C=C1)C1=C(C=C(N)C=C1)O2,C1=CC=C2C(=C1)C(=O)N2C3=CC=CC=C3,"C1=CC=C2C(=C1)C(=O)N2C3=CC=CC=C3
+
+
+The final answer is: $\boxed{C1=CC=C2C(=C1)C(=O)N2C3=CC=CC=C3}$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$ }$"
+54,3,"This molecule contains a phenanthrene core, with two amino groups attached to the terminal benzene rings as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC2=C3C=CC(=C3C(=C2C(=C1)N)N)C4=CC=CC=C4BookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthis,"C1=CC2=C3C=CC(=C3C(=C2C(=C1)N)N)C4=CC=CC=C4
+
+
+The final answer is: C1=CC2=C3C=CC(=C3C(=C2C(=C1)N)N)C4=CC=CC=C4 Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this"
+55,3,"This molecule has a phenanthrene backbone, where amino groups are positioned on the terminal benzene rings, serving as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4Thefinalansweris,"C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4
+
+
+The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3C=CC=CC3=C(C=C2)NC4=CC=CC=C4 The final answer is: C1=CC2=C3"
+56,3,"This molecule uses a phenanthrene skeleton with two amino groups connecting to the terminal benzene rings, functioning as anchor groups.",C1=CC2=C(C=CC3=C2C=CC(=C3)N)C=C1N,NC1=CC2=CC3=C(C=C(N)C=C3)C=C2C=C1,"NC1=CC2=CC3=C(C=C(N)C=C3)C=C2C=C1
+
+
+The final answer is: NC1=CC2=CC3=C(C=C(N)C=C3)C=C2C=C1. </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s"
+57,3,"This molecule has two pyridine rings linked by a carbon atom, with each pyridine ring acting as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=NC=CC=C1C2=NC=CC=C2BookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthis,"C1=NC=CC=C1C2=NC=CC=C2
+
+
+The final answer is: C1=NC=CC=C1C2=NC=CC=C2 Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this"
+58,3,"This molecule features two pyridine rings connected by a carbon atom, where each pyridine ring serves as an anchor group.",C1=CN=CC=C1CC2=CC=NC=C2,C1=NC=CC=C1C2=NC=CC=C2$Thefinalansweris,"C1=NC=CC=C1C2=NC=CC=C2
+
+The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC=C1C2=NC=CC=C2}$ The final answer is: $\boxed{C1=NC=CC"
+59,3,"This molecule uses two pyridine rings as the core, linked by a carbon atom, functioning as anchor groups.",C1=CN=CC=C1CC2=CC=NC=C2,CN1C=CC=C(N=C1)CBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestionBookmarkthisquestion,"CN1C=CC=C(N=C1)C
+
+
+The final answer is: CN1C=CC=C(N=C1)C Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question Bookmark this question"
